@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Market Analysis Dashboard</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header class="site-header">
+        <div class="site-bar container">
+            <div class="brand">
+                <img src="/images/illustration-analytics.svg" alt="logo" class="logo-svg">
+                <div class="brand-text">
+                    <div class="brand-title">Job Market Insights</div>
+                    <div class="brand-sub">Analysis Dashboard</div>
+                </div>
+            </div>
+
+            <nav class="site-nav">
+                <a href="#home" data-route="home" class="nav-link active">Home</a>
+                <a href="#dashboard" data-route="dashboard" class="nav-link">Dashboard</a>
+                <a href="#insights" data-route="insights" class="nav-link">Insights</a>
+                <a href="#data" data-route="data" class="nav-link">Data</a>
+                <a href="#about" data-route="about" class="nav-link">About</a>
+            </nav>
+
+            <div class="site-actions">
+                <input id="globalSearch" class="global-search" type="search" placeholder="Search companies, skills, charts...">
+                <button onclick="openSparkUI()" class="btn-spark">Spark UI</button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section id="home" class="section section-home">
+            <div class="container">
+                <div class="hero">
+                    <div class="hero-left">
+                        <h1>Understand the Job Market Faster</h1>
+                        <p class="lead">Interactive dashboards, curated insights and exportable tables — all in one place. Tell us what you want to explore and get a focused view.</p>
+                        <div class="hero-actions">
+                            <button id="exploreBtn" class="btn-primary">Explore</button>
+                            <button id="learnMoreBtn" class="btn-secondary">Learn More</button>
+                        </div>
+                    </div>
+                    <div class="hero-right">
+                        <img src="/images/illustration-analytics.svg" alt="Analytics illustration" class="hero-illustration">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="dashboard" class="section section-dashboard hidden">
+            <div class="container">
+                <!-- Overview Cards -->
+                <div class="overview-cards">
+                    <div class="card">
+                        <h3>Total Jobs</h3>
+                        <div id="totalJobs" class="card-value">-</div>
+                    </div>
+                    <div class="card">
+                        <h3>Domains</h3>
+                        <div id="totalDomains" class="card-value">-</div>
+                    </div>
+                    <div class="card">
+                        <h3>Companies</h3>
+                        <div id="totalCompanies" class="card-value">-</div>
+                    </div>
+                    <div class="card">
+                        <h3>Locations</h3>
+                        <div id="totalLocations" class="card-value">-</div>
+                    </div>
+                </div>
+
+                <!-- Charts and Insights split -->
+                <div class="charts-and-insights">
+                    <div class="charts-column">
+                        <div id="domainContainer" class="chart-container hidden"><h3>Jobs by Domain</h3><canvas id="domainChart"></canvas></div>
+                        <div id="skillsContainer" class="chart-container hidden"><h3>Top Skills Demand</h3><canvas id="skillsChart"></canvas></div>
+                        <div id="companyContainer" class="chart-container hidden"><h3>Company Hiring Trends</h3><canvas id="companyChart"></canvas></div>
+                        <div id="experienceContainer" class="chart-container hidden"><h3>Salary by Experience</h3><canvas id="experienceChart"></canvas></div>
+                        <div id="locationContainer" class="chart-container hidden"><h3>Jobs by Location</h3><canvas id="locationChart"></canvas></div>
+                        <div id="salaryContainer" class="chart-container hidden"><h3>Salary Distribution</h3><canvas id="salaryChart"></canvas></div>
+                    </div>
+
+                    <aside class="insights-column">
+                        <div class="insights">
+                            <h2>Key Insights</h2>
+                            <p id="insightsSummary" class="insights-summary">Loading insights...</p>
+                            <h4>Top Skills</h4>
+                            <ul id="topSkillsList" class="insight-list"><li>Loading skills...</li></ul>
+                            <h4>Recommended Actions</h4>
+                            <ul id="recommendations" class="insight-list"><li>Loading recommendations...</li></ul>
+                        </div>
+                    </aside>
+                </div>
+
+                <!-- Companies Table -->
+                <div class="details">
+                    <h2>Top Hiring Companies</h2>
+                    <div class="table-wrapper">
+                        <table class="data-table" id="companyTable">
+                            <thead>
+                                <tr><th>Company</th><th>Job Count</th><th>Avg Salary</th></tr>
+                            </thead>
+                            <tbody id="companyTableBody"><tr><td colspan="3">Loading...</td></tr></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="insights" class="section section-insights hidden">
+            <div class="container">
+                <h2>Insights</h2>
+                <div id="insightsFull" class="card">Detailed insights will appear here.</div>
+            </div>
+        </section>
+
+        <section id="data" class="section section-data hidden">
+            <div class="container">
+                <h2>Dataset</h2>
+                <p>Download or preview the underlying dataset.</p>
+                <div class="table-wrapper">
+                    <table class="data-table"><thead><tr><th>Sample Row</th></tr></thead><tbody><tr><td>Use API /download to fetch full data</td></tr></tbody></table>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="section section-about hidden">
+            <div class="container">
+                <h2>About</h2>
+                <p>This dashboard is a lightweight interface to explore job market trends. Built with Flask and PySpark for data processing and Chart.js for visualization.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">© 2025 Job Market Insights — Built with care.</div>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,501 @@
+jobtitle,company,domain,skills,salary,location,experience,posteddate,salary_min,salary_max,experience_level,primary_skill,city
+Machine Learning Engineer,Tech Mahindra,Cloud Engineering,"Excel, Tableau, Linux, Kubernetes","₹16,00,000 - ₹25,00,000",Mumbai,Mid,2025-12-13,1600000,2500000,Mid,Excel,Mumbai
+Data Engineer,Google,Business Analysis,"Python, Linux, AWS","₹3,00,000 - ₹5,00,000",Coimbatore,Senior,2025-09-02,300000,500000,Senior,Python,Coimbatore
+Cloud Architect,Infosys,Cloud Engineering,"Scala, Java, SQL, Linux, Docker","₹6,00,000 - ₹9,00,000",Mumbai,Senior,2025-04-08,600000,900000,Senior,Scala,Mumbai
+Data Analyst,Cognizant,Data Science,"Python, AWS, Java, SQL, Tableau","₹3,00,000 - ₹5,00,000",Bangalore,Senior,2025-11-02,300000,500000,Senior,Python,Bangalore
+Software Developer,Amazon,Cybersecurity,"Tableau, Spark, Docker","₹16,00,000 - ₹25,00,000",Kolkata,Entry,2025-01-01,1600000,2500000,Entry,Tableau,Kolkata
+AI Engineer,Amazon,Cloud Engineering,"C++, AWS, Excel, Python, Power BI, Scala","₹10,00,000 - ₹15,00,000",Delhi,Entry,2025-05-19,1000000,1500000,Entry,C++,Delhi
+Web Developer,Accenture,Business Analysis,"Java, Docker, SQL, Kubernetes, Tableau","₹6,00,000 - ₹9,00,000",Mumbai,Senior,2025-01-17,600000,900000,Senior,Java,Mumbai
+Cloud Architect,TCS,Machine Learning,"Scala, Java, AWS, Docker, TensorFlow","₹10,00,000 - ₹15,00,000",Kolkata,Entry,2025-09-16,1000000,1500000,Entry,Scala,Kolkata
+Security Analyst,Accenture,Web Development,"Docker, Excel, Power BI, Python","₹10,00,000 - ₹15,00,000",Mumbai,Senior,2025-07-20,1000000,1500000,Senior,Docker,Mumbai
+Cloud Architect,Tech Mahindra,AI Research,"Tableau, TensorFlow, Scala","₹10,00,000 - ₹15,00,000",Pune,Senior,2025-12-05,1000000,1500000,Senior,Tableau,Pune
+Cloud Architect,Infosys,Cloud Engineering,"Python, Power BI, Tableau, SQL","₹16,00,000 - ₹25,00,000",Delhi,Mid,2025-12-20,1600000,2500000,Mid,Python,Delhi
+AI Engineer,HCL,Business Analysis,"React, Tableau, Java, Docker","₹16,00,000 - ₹25,00,000",Kolkata,Entry,2025-08-01,1600000,2500000,Entry,React,Kolkata
+Software Developer,Tech Mahindra,Cloud Engineering,"Linux, React, C++, Kubernetes, Docker","₹3,00,000 - ₹5,00,000",Hyderabad,Entry,2025-08-14,300000,500000,Entry,Linux,Hyderabad
+Data Engineer,Amazon,Cybersecurity,"C++, Java, React, Python, Linux, SQL","₹10,00,000 - ₹15,00,000",Delhi,Senior,2025-11-19,1000000,1500000,Senior,C++,Delhi
+Business Analyst,HCL,AI Research,"Python, Linux, AWS, SQL","₹10,00,000 - ₹15,00,000",Chennai,Senior,2025-01-26,1000000,1500000,Senior,Python,Chennai
+Business Analyst,Tech Mahindra,Cloud Engineering,"Excel, Scala, SQL, React, Power BI","₹6,00,000 - ₹9,00,000",Hyderabad,Entry,2025-08-17,600000,900000,Entry,Excel,Hyderabad
+Data Engineer,Accenture,Web Development,"Linux, Java, Tableau","₹3,00,000 - ₹5,00,000",Hyderabad,Mid,2025-05-14,300000,500000,Mid,Linux,Hyderabad
+Software Developer,TCS,Software Development,"Scala, Kubernetes, SQL","₹6,00,000 - ₹9,00,000",Hyderabad,Mid,2025-04-03,600000,900000,Mid,Scala,Hyderabad
+Web Developer,Amazon,AI Research,"Excel, Spark, Kubernetes","₹10,00,000 - ₹15,00,000",Mumbai,Senior,2025-02-23,1000000,1500000,Senior,Excel,Mumbai
+Cloud Architect,HCL,AI Research,"Python, React, Spark, Java, Power BI","₹16,00,000 - ₹25,00,000",Bangalore,Mid,2025-09-27,1600000,2500000,Mid,Python,Bangalore
+Business Analyst,Wipro,Software Development,"Kubernetes, Docker, Tableau, C++","₹3,00,000 - ₹5,00,000",Chennai,Senior,2025-02-27,300000,500000,Senior,Kubernetes,Chennai
+Security Analyst,Amazon,Web Development,"Power BI, Spark, Kubernetes, C++, Python","₹10,00,000 - ₹15,00,000",Mumbai,Entry,2025-08-06,1000000,1500000,Entry,Power BI,Mumbai
+Web Developer,TCS,Machine Learning,"SQL, Kubernetes, Excel","₹3,00,000 - ₹5,00,000",Chennai,Mid,2025-12-15,300000,500000,Mid,SQL,Chennai
+Machine Learning Engineer,Wipro,Machine Learning,"AWS, TensorFlow, React, Kubernetes, SQL, Scala","₹16,00,000 - ₹25,00,000",Coimbatore,Senior,2025-09-19,1600000,2500000,Senior,AWS,Coimbatore
+DevOps Engineer,TCS,Cybersecurity,"Scala, Python, C++, Tableau, Excel","₹3,00,000 - ₹5,00,000",Coimbatore,Entry,2025-06-21,300000,500000,Entry,Scala,Coimbatore
+Data Analyst,Google,Data Science,"Power BI, AWS, Scala, Java, Tableau, Docker","₹16,00,000 - ₹25,00,000",Delhi,Mid,2025-03-03,1600000,2500000,Mid,Power BI,Delhi
+Cloud Architect,Microsoft,Data Science,"Python, Tableau, Spark, Linux","₹6,00,000 - ₹9,00,000",Kolkata,Senior,2025-05-21,600000,900000,Senior,Python,Kolkata
+Machine Learning Engineer,Wipro,Data Science,"AWS, Python, SQL, Power BI, Excel","₹3,00,000 - ₹5,00,000",Coimbatore,Mid,2025-07-11,300000,500000,Mid,AWS,Coimbatore
+Security Analyst,Cognizant,Software Development,"SQL, Tableau, Docker","₹10,00,000 - ₹15,00,000",Hyderabad,Mid,2025-06-23,1000000,1500000,Mid,SQL,Hyderabad
+Web Developer,Cognizant,AI Research,"TensorFlow, C++, Linux, Tableau, Spark","₹10,00,000 - ₹15,00,000",Pune,Entry,2025-05-23,1000000,1500000,Entry,TensorFlow,Pune
+Web Developer,Wipro,Cloud Engineering,"Spark, Tableau, Excel, AWS, Java, TensorFlow","₹16,00,000 - ₹25,00,000",Hyderabad,Entry,2025-04-17,1600000,2500000,Entry,Spark,Hyderabad
+DevOps Engineer,Cognizant,Web Development,"Docker, TensorFlow, Java, React","₹10,00,000 - ₹15,00,000",Pune,Senior,2025-08-22,1000000,1500000,Senior,Docker,Pune
+Software Developer,TCS,AI Research,"C++, SQL, TensorFlow, Spark, React","₹10,00,000 - ₹15,00,000",Coimbatore,Mid,2025-06-08,1000000,1500000,Mid,C++,Coimbatore
+AI Engineer,Tech Mahindra,Cybersecurity,"Spark, Docker, SQL, React","₹6,00,000 - ₹9,00,000",Kolkata,Entry,2025-12-15,600000,900000,Entry,Spark,Kolkata
+Data Engineer,Amazon,Cloud Engineering,"AWS, Python, Tableau, SQL, Spark, Scala","₹16,00,000 - ₹25,00,000",Bangalore,Senior,2025-07-17,1600000,2500000,Senior,AWS,Bangalore
+Data Engineer,Google,Machine Learning,"SQL, Scala, Kubernetes, React","₹3,00,000 - ₹5,00,000",Chennai,Senior,2025-10-01,300000,500000,Senior,SQL,Chennai
+Cloud Architect,TCS,Machine Learning,"Scala, Docker, Java, SQL","₹10,00,000 - ₹15,00,000",Kolkata,Entry,2025-11-13,1000000,1500000,Entry,Scala,Kolkata
+AI Engineer,TCS,Web Development,"SQL, Power BI, C++, Kubernetes, Spark","₹3,00,000 - ₹5,00,000",Mumbai,Senior,2025-05-22,300000,500000,Senior,SQL,Mumbai
+DevOps Engineer,Google,Cybersecurity,"Docker, Tableau, Spark, TensorFlow","₹10,00,000 - ₹15,00,000",Coimbatore,Senior,2025-06-19,1000000,1500000,Senior,Docker,Coimbatore
+Business Analyst,Accenture,AI Research,"Spark, Tableau, Docker","₹3,00,000 - ₹5,00,000",Delhi,Entry,2025-10-26,300000,500000,Entry,Spark,Delhi
+Cloud Architect,Google,Web Development,"React, Scala, C++, AWS, Java","₹10,00,000 - ₹15,00,000",Mumbai,Entry,2025-01-28,1000000,1500000,Entry,React,Mumbai
+Software Developer,Google,Business Analysis,"Scala, Tableau, Power BI","₹16,00,000 - ₹25,00,000",Pune,Mid,2025-02-20,1600000,2500000,Mid,Scala,Pune
+Data Analyst,Tech Mahindra,Cybersecurity,"SQL, Scala, Java","₹6,00,000 - ₹9,00,000",Coimbatore,Entry,2025-08-10,600000,900000,Entry,SQL,Coimbatore
+Web Developer,Wipro,AI Research,"Docker, Tableau, Power BI, C++, React","₹16,00,000 - ₹25,00,000",Pune,Entry,2025-02-23,1600000,2500000,Entry,Docker,Pune
+AI Engineer,Google,Cybersecurity,"C++, React, TensorFlow, Kubernetes, Docker, Tableau","₹6,00,000 - ₹9,00,000",Bangalore,Entry,2025-03-02,600000,900000,Entry,C++,Bangalore
+Machine Learning Engineer,Cognizant,Cybersecurity,"Scala, Excel, AWS","₹6,00,000 - ₹9,00,000",Bangalore,Entry,2025-02-28,600000,900000,Entry,Scala,Bangalore
+Business Analyst,Microsoft,Cybersecurity,"React, C++, Tableau, Excel, Java","₹6,00,000 - ₹9,00,000",Mumbai,Entry,2025-11-07,600000,900000,Entry,React,Mumbai
+AI Engineer,Wipro,AI Research,"Tableau, Kubernetes, C++, Scala, Java, Power BI","₹10,00,000 - ₹15,00,000",Mumbai,Mid,2025-12-18,1000000,1500000,Mid,Tableau,Mumbai
+AI Engineer,Google,Data Science,"Excel, Tableau, React","₹3,00,000 - ₹5,00,000",Chennai,Entry,2025-08-18,300000,500000,Entry,Excel,Chennai
+Software Developer,HCL,Web Development,"Python, TensorFlow, Kubernetes, Linux, Docker, React","₹3,00,000 - ₹5,00,000",Coimbatore,Entry,2025-04-20,300000,500000,Entry,Python,Coimbatore
+Software Developer,Cognizant,Business Analysis,"TensorFlow, Power BI, Python, Excel, Linux, Scala","₹16,00,000 - ₹25,00,000",Hyderabad,Entry,2025-06-28,1600000,2500000,Entry,TensorFlow,Hyderabad
+AI Engineer,Amazon,Cloud Engineering,"Spark, Excel, C++, SQL","₹16,00,000 - ₹25,00,000",Chennai,Senior,2025-07-05,1600000,2500000,Senior,Spark,Chennai
+DevOps Engineer,Google,Business Analysis,"TensorFlow, Excel, Docker","₹3,00,000 - ₹5,00,000",Bangalore,Senior,2025-12-06,300000,500000,Senior,TensorFlow,Bangalore
+Business Analyst,Amazon,Software Development,"TensorFlow, SQL, AWS, Kubernetes, Java","₹16,00,000 - ₹25,00,000",Bangalore,Entry,2025-05-25,1600000,2500000,Entry,TensorFlow,Bangalore
+DevOps Engineer,Wipro,Cloud Engineering,"C++, AWS, Power BI, Scala","₹10,00,000 - ₹15,00,000",Hyderabad,Senior,2025-07-04,1000000,1500000,Senior,C++,Hyderabad
+Cloud Architect,Tech Mahindra,Web Development,"Python, Linux, TensorFlow","₹10,00,000 - ₹15,00,000",Coimbatore,Mid,2025-12-08,1000000,1500000,Mid,Python,Coimbatore
+Business Analyst,Infosys,Cloud Engineering,"Excel, Linux, Spark, SQL, Power BI, Docker","₹10,00,000 - ₹15,00,000",Mumbai,Senior,2025-02-26,1000000,1500000,Senior,Excel,Mumbai
+Machine Learning Engineer,Wipro,Software Development,"Power BI, AWS, Python","₹10,00,000 - ₹15,00,000",Pune,Senior,2025-04-18,1000000,1500000,Senior,Power BI,Pune
+Security Analyst,Microsoft,Software Development,"Python, Power BI, SQL","₹16,00,000 - ₹25,00,000",Chennai,Senior,2025-06-12,1600000,2500000,Senior,Python,Chennai
+Security Analyst,TCS,Cloud Engineering,"React, Java, AWS","₹3,00,000 - ₹5,00,000",Pune,Entry,2025-10-01,300000,500000,Entry,React,Pune
+DevOps Engineer,Infosys,Web Development,"Python, SQL, React, Docker, TensorFlow, Tableau","₹10,00,000 - ₹15,00,000",Chennai,Senior,2025-08-03,1000000,1500000,Senior,Python,Chennai
+Software Developer,Microsoft,Machine Learning,"Kubernetes, Java, C++, Docker","₹6,00,000 - ₹9,00,000",Pune,Mid,2025-06-04,600000,900000,Mid,Kubernetes,Pune
+Data Analyst,Google,Cloud Engineering,"AWS, Scala, Linux, Spark, Python, Docker","₹16,00,000 - ₹25,00,000",Coimbatore,Senior,2025-02-11,1600000,2500000,Senior,AWS,Coimbatore
+Business Analyst,Accenture,Software Development,"Power BI, Python, Spark, Java, C++","₹6,00,000 - ₹9,00,000",Coimbatore,Senior,2025-02-21,600000,900000,Senior,Power BI,Coimbatore
+Business Analyst,Infosys,Business Analysis,"AWS, C++, Java, Docker, Tableau","₹3,00,000 - ₹5,00,000",Kolkata,Entry,2025-05-06,300000,500000,Entry,AWS,Kolkata
+Data Engineer,Wipro,Web Development,"C++, Linux, React, Java, SQL","₹3,00,000 - ₹5,00,000",Hyderabad,Mid,2025-05-12,300000,500000,Mid,C++,Hyderabad
+AI Engineer,Microsoft,Software Development,"Spark, C++, Java","₹6,00,000 - ₹9,00,000",Hyderabad,Mid,2025-09-10,600000,900000,Mid,Spark,Hyderabad
+Data Analyst,Cognizant,Web Development,"Docker, Java, Kubernetes, Power BI, Linux","₹3,00,000 - ₹5,00,000",Chennai,Entry,2025-09-07,300000,500000,Entry,Docker,Chennai
+Software Developer,Cognizant,Cybersecurity,"Spark, C++, Scala, Docker, SQL, Tableau","₹10,00,000 - ₹15,00,000",Bangalore,Senior,2025-02-07,1000000,1500000,Senior,Spark,Bangalore
+Data Engineer,Amazon,AI Research,"Linux, Excel, Java","₹16,00,000 - ₹25,00,000",Kolkata,Mid,2025-06-18,1600000,2500000,Mid,Linux,Kolkata
+AI Engineer,Amazon,Machine Learning,"TensorFlow, Python, Excel, Power BI, SQL","₹3,00,000 - ₹5,00,000",Chennai,Senior,2025-12-19,300000,500000,Senior,TensorFlow,Chennai
+DevOps Engineer,Accenture,Data Science,"AWS, Spark, Power BI","₹10,00,000 - ₹15,00,000",Hyderabad,Entry,2025-06-17,1000000,1500000,Entry,AWS,Hyderabad
+AI Engineer,Wipro,Web Development,"Tableau, Linux, Power BI, SQL, Spark, AWS","₹10,00,000 - ₹15,00,000",Delhi,Senior,2025-07-23,1000000,1500000,Senior,Tableau,Delhi
+Software Developer,HCL,AI Research,"Scala, Tableau, React, Java","₹3,00,000 - ₹5,00,000",Chennai,Senior,2025-01-24,300000,500000,Senior,Scala,Chennai
+Software Developer,Google,Data Science,"React, Java, Excel, Spark, Linux","₹6,00,000 - ₹9,00,000",Hyderabad,Entry,2025-06-22,600000,900000,Entry,React,Hyderabad
+Business Analyst,Google,Business Analysis,"React, Python, C++, TensorFlow, Kubernetes, Linux","₹6,00,000 - ₹9,00,000",Coimbatore,Mid,2025-04-16,600000,900000,Mid,React,Coimbatore
+Business Analyst,Accenture,Machine Learning,"C++, Scala, Docker, TensorFlow, Tableau, AWS","₹6,00,000 - ₹9,00,000",Pune,Mid,2025-03-15,600000,900000,Mid,C++,Pune
+Security Analyst,Accenture,Software Development,"TensorFlow, Kubernetes, Java","₹3,00,000 - ₹5,00,000",Mumbai,Senior,2025-04-25,300000,500000,Senior,TensorFlow,Mumbai
+Web Developer,Microsoft,Web Development,"Kubernetes, Linux, AWS, Excel, TensorFlow, Python","₹6,00,000 - ₹9,00,000",Chennai,Senior,2025-12-22,600000,900000,Senior,Kubernetes,Chennai
+Security Analyst,Microsoft,Business Analysis,"AWS, Linux, Tableau","₹3,00,000 - ₹5,00,000",Delhi,Senior,2025-12-06,300000,500000,Senior,AWS,Delhi
+Business Analyst,Google,Web Development,"React, AWS, Tableau, Java, Excel, Scala","₹16,00,000 - ₹25,00,000",Mumbai,Senior,2025-10-26,1600000,2500000,Senior,React,Mumbai
+Software Developer,Microsoft,AI Research,"Spark, Tableau, AWS, Scala","₹3,00,000 - ₹5,00,000",Coimbatore,Senior,2025-01-25,300000,500000,Senior,Spark,Coimbatore
+Data Analyst,Cognizant,Data Science,"Excel, Power BI, SQL, React, Docker","₹6,00,000 - ₹9,00,000",Delhi,Entry,2025-11-17,600000,900000,Entry,Excel,Delhi
+Software Developer,Microsoft,Cloud Engineering,"SQL, Kubernetes, Java, React, Python, Power BI","₹6,00,000 - ₹9,00,000",Bangalore,Entry,2025-06-26,600000,900000,Entry,SQL,Bangalore
+Business Analyst,Cognizant,Cloud Engineering,"Linux, Scala, C++","₹10,00,000 - ₹15,00,000",Coimbatore,Mid,2025-02-26,1000000,1500000,Mid,Linux,Coimbatore
+Business Analyst,Microsoft,AI Research,"Spark, Java, Docker, Python, AWS, Kubernetes","₹10,00,000 - ₹15,00,000",Delhi,Entry,2025-02-09,1000000,1500000,Entry,Spark,Delhi
+Security Analyst,Cognizant,Data Science,"Java, AWS, Spark, C++","₹10,00,000 - ₹15,00,000",Pune,Mid,2025-11-27,1000000,1500000,Mid,Java,Pune
+AI Engineer,TCS,Software Development,"AWS, Linux, Scala, Power BI","₹16,00,000 - ₹25,00,000",Mumbai,Senior,2025-02-17,1600000,2500000,Senior,AWS,Mumbai
+Security Analyst,Wipro,AI Research,"React, AWS, Docker","₹16,00,000 - ₹25,00,000",Coimbatore,Mid,2025-07-02,1600000,2500000,Mid,React,Coimbatore
+Security Analyst,Infosys,Machine Learning,"SQL, Scala, AWS, Power BI","₹16,00,000 - ₹25,00,000",Coimbatore,Senior,2025-11-04,1600000,2500000,Senior,SQL,Coimbatore
+Security Analyst,Google,Cloud Engineering,"C++, Excel, Docker","₹3,00,000 - ₹5,00,000",Mumbai,Mid,2025-10-21,300000,500000,Mid,C++,Mumbai
+Data Analyst,Wipro,Cybersecurity,"AWS, Kubernetes, Excel, Python, Linux, TensorFlow","₹10,00,000 - ₹15,00,000",Coimbatore,Senior,2025-03-13,1000000,1500000,Senior,AWS,Coimbatore
+Security Analyst,Wipro,Software Development,"Excel, Spark, Scala, C++, Kubernetes, Tableau","₹6,00,000 - ₹9,00,000",Chennai,Entry,2025-04-01,600000,900000,Entry,Excel,Chennai
+Software Developer,TCS,Machine Learning,"Java, Tableau, Kubernetes","₹10,00,000 - ₹15,00,000",Mumbai,Senior,2025-04-13,1000000,1500000,Senior,Java,Mumbai
+Business Analyst,HCL,AI Research,"Spark, Excel, SQL, C++, Kubernetes","₹3,00,000 - ₹5,00,000",Mumbai,Entry,2025-08-09,300000,500000,Entry,Spark,Mumbai
+Cloud Architect,Cognizant,Software Development,"C++, Tableau, Spark, Linux","₹3,00,000 - ₹5,00,000",Kolkata,Senior,2025-10-25,300000,500000,Senior,C++,Kolkata
+Machine Learning Engineer,Cognizant,Business Analysis,"Linux, SQL, Spark","₹3,00,000 - ₹5,00,000",Hyderabad,Mid,2025-03-13,300000,500000,Mid,Linux,Hyderabad
+DevOps Engineer,Google,AI Research,"AWS, Python, Linux, Kubernetes, Spark","₹6,00,000 - ₹9,00,000",Mumbai,Mid,2025-02-04,600000,900000,Mid,AWS,Mumbai
+Security Analyst,Wipro,AI Research,"Linux, Spark, Tableau, Python, Docker","₹3,00,000 - ₹5,00,000",Hyderabad,Senior,2025-03-17,300000,500000,Senior,Linux,Hyderabad
+Data Engineer,Amazon,Cybersecurity,"Linux, SQL, Excel, C++, Docker, React","₹10,00,000 - ₹15,00,000",Pune,Mid,2025-05-21,1000000,1500000,Mid,Linux,Pune
+Data Engineer,Wipro,Web Development,"Java, Spark, Power BI, Python, Kubernetes","₹6,00,000 - ₹9,00,000",Delhi,Mid,2025-10-24,600000,900000,Mid,Java,Delhi
+AI Engineer,Tech Mahindra,Software Development,"React, Python, Spark","₹6,00,000 - ₹9,00,000",Coimbatore,Entry,2025-09-23,600000,900000,Entry,React,Coimbatore
+Data Engineer,Amazon,AI Research,"Spark, Linux, AWS, Kubernetes, Java","₹3,00,000 - ₹5,00,000",Kolkata,Mid,2025-09-12,300000,500000,Mid,Spark,Kolkata
+Data Analyst,Amazon,Machine Learning,"React, Power BI, Excel","₹16,00,000 - ₹25,00,000",Pune,Mid,2025-08-27,1600000,2500000,Mid,React,Pune
+Web Developer,Accenture,Web Development,"Java, Python, TensorFlow, Tableau, C++, Kubernetes","₹6,00,000 - ₹9,00,000",Bangalore,Mid,2025-06-12,600000,900000,Mid,Java,Bangalore
+Machine Learning Engineer,Tech Mahindra,Business Analysis,"AWS, Excel, SQL, C++, Python","₹10,00,000 - ₹15,00,000",Pune,Mid,2025-09-03,1000000,1500000,Mid,AWS,Pune
+Data Engineer,HCL,Cloud Engineering,"Docker, AWS, Java, Power BI","₹16,00,000 - ₹25,00,000",Hyderabad,Senior,2025-10-12,1600000,2500000,Senior,Docker,Hyderabad
+Cloud Architect,Cognizant,Cloud Engineering,"TensorFlow, C++, Scala, Python, Docker, Excel","₹16,00,000 - ₹25,00,000",Delhi,Mid,2025-12-05,1600000,2500000,Mid,TensorFlow,Delhi
+AI Engineer,Tech Mahindra,Software Development,"Excel, C++, Power BI, Java, AWS, Linux","₹10,00,000 - ₹15,00,000",Pune,Senior,2025-04-10,1000000,1500000,Senior,Excel,Pune
+Data Analyst,TCS,Cybersecurity,"Tableau, React, SQL, Linux, AWS","₹10,00,000 - ₹15,00,000",Pune,Entry,2025-01-21,1000000,1500000,Entry,Tableau,Pune
+Software Developer,TCS,Data Science,"Docker, Spark, TensorFlow","₹16,00,000 - ₹25,00,000",Kolkata,Mid,2025-03-23,1600000,2500000,Mid,Docker,Kolkata
+AI Engineer,Cognizant,Software Development,"C++, SQL, Excel, Kubernetes","₹10,00,000 - ₹15,00,000",Hyderabad,Mid,2025-08-28,1000000,1500000,Mid,C++,Hyderabad
+Data Engineer,Infosys,Cybersecurity,"Excel, TensorFlow, Spark, Python, Kubernetes, Linux","₹16,00,000 - ₹25,00,000",Bangalore,Entry,2025-02-01,1600000,2500000,Entry,Excel,Bangalore
+DevOps Engineer,Infosys,Business Analysis,"TensorFlow, React, Spark","₹6,00,000 - ₹9,00,000",Chennai,Mid,2025-10-14,600000,900000,Mid,TensorFlow,Chennai
+DevOps Engineer,Wipro,Software Development,"Linux, Docker, C++","₹10,00,000 - ₹15,00,000",Chennai,Senior,2025-09-03,1000000,1500000,Senior,Linux,Chennai
+Cloud Architect,HCL,Web Development,"Power BI, Tableau, Scala, Java","₹16,00,000 - ₹25,00,000",Pune,Entry,2025-10-05,1600000,2500000,Entry,Power BI,Pune
+Web Developer,Accenture,Data Science,"Tableau, Linux, C++","₹3,00,000 - ₹5,00,000",Pune,Senior,2025-06-28,300000,500000,Senior,Tableau,Pune
+Data Engineer,Accenture,Data Science,"Docker, Power BI, Spark, C++, React, Excel","₹16,00,000 - ₹25,00,000",Kolkata,Senior,2025-06-04,1600000,2500000,Senior,Docker,Kolkata
+DevOps Engineer,Microsoft,Business Analysis,"Java, Kubernetes, Tableau, TensorFlow","₹3,00,000 - ₹5,00,000",Kolkata,Senior,2025-10-23,300000,500000,Senior,Java,Kolkata
+Data Analyst,Amazon,Machine Learning,"Power BI, C++, React","₹10,00,000 - ₹15,00,000",Mumbai,Senior,2025-05-05,1000000,1500000,Senior,Power BI,Mumbai
+Security Analyst,Cognizant,Data Science,"Java, Linux, Power BI","₹6,00,000 - ₹9,00,000",Coimbatore,Senior,2025-03-16,600000,900000,Senior,Java,Coimbatore
+Security Analyst,Microsoft,Web Development,"Excel, React, Python, C++, Scala","₹6,00,000 - ₹9,00,000",Delhi,Mid,2025-06-18,600000,900000,Mid,Excel,Delhi
+Data Engineer,Microsoft,Cybersecurity,"Tableau, Python, Docker, Excel","₹6,00,000 - ₹9,00,000",Mumbai,Senior,2025-07-23,600000,900000,Senior,Tableau,Mumbai
+Data Analyst,Amazon,Cybersecurity,"AWS, React, Kubernetes, Docker, Tableau, Excel","₹6,00,000 - ₹9,00,000",Hyderabad,Entry,2025-08-20,600000,900000,Entry,AWS,Hyderabad
+Machine Learning Engineer,Infosys,Software Development,"Excel, React, Python, Kubernetes, Scala","₹3,00,000 - ₹5,00,000",Coimbatore,Senior,2025-01-06,300000,500000,Senior,Excel,Coimbatore
+Cloud Architect,TCS,Machine Learning,"SQL, React, Docker, Java, Linux, AWS","₹6,00,000 - ₹9,00,000",Pune,Mid,2025-11-09,600000,900000,Mid,SQL,Pune
+Software Developer,Cognizant,Cloud Engineering,"Docker, Spark, Tableau","₹10,00,000 - ₹15,00,000",Chennai,Entry,2025-01-14,1000000,1500000,Entry,Docker,Chennai
+Business Analyst,Wipro,Business Analysis,"React, SQL, Java, Tableau, Excel","₹16,00,000 - ₹25,00,000",Chennai,Senior,2025-06-08,1600000,2500000,Senior,React,Chennai
+Software Developer,Amazon,Business Analysis,"Spark, Scala, TensorFlow, SQL, AWS, Excel","₹3,00,000 - ₹5,00,000",Bangalore,Mid,2025-02-21,300000,500000,Mid,Spark,Bangalore
+Machine Learning Engineer,Wipro,Business Analysis,"AWS, Linux, SQL","₹10,00,000 - ₹15,00,000",Hyderabad,Mid,2025-06-13,1000000,1500000,Mid,AWS,Hyderabad
+AI Engineer,Cognizant,Software Development,"C++, Python, Power BI, Scala","₹3,00,000 - ₹5,00,000",Chennai,Senior,2025-07-18,300000,500000,Senior,C++,Chennai
+Business Analyst,Infosys,Software Development,"TensorFlow, AWS, Docker, Scala, Kubernetes, Tableau","₹3,00,000 - ₹5,00,000",Chennai,Entry,2025-08-14,300000,500000,Entry,TensorFlow,Chennai
+Data Engineer,TCS,Business Analysis,"Linux, Spark, SQL, Kubernetes","₹6,00,000 - ₹9,00,000",Pune,Entry,2025-03-23,600000,900000,Entry,Linux,Pune
+Data Engineer,Google,AI Research,"Power BI, TensorFlow, Docker, React","₹16,00,000 - ₹25,00,000",Mumbai,Entry,2025-09-04,1600000,2500000,Entry,Power BI,Mumbai
+DevOps Engineer,Amazon,Cybersecurity,"C++, Spark, Power BI","₹10,00,000 - ₹15,00,000",Pune,Senior,2025-10-03,1000000,1500000,Senior,C++,Pune
+Machine Learning Engineer,Wipro,Data Science,"TensorFlow, Docker, Spark, Kubernetes, Scala","₹10,00,000 - ₹15,00,000",Mumbai,Entry,2025-12-02,1000000,1500000,Entry,TensorFlow,Mumbai
+Web Developer,Wipro,Machine Learning,"React, Java, Power BI","₹10,00,000 - ₹15,00,000",Hyderabad,Mid,2025-04-22,1000000,1500000,Mid,React,Hyderabad
+Software Developer,TCS,Software Development,"Python, Excel, Docker, C++, Kubernetes, Scala","₹6,00,000 - ₹9,00,000",Chennai,Mid,2025-10-23,600000,900000,Mid,Python,Chennai
+Web Developer,TCS,Web Development,"C++, AWS, SQL, Java, React, Python","₹6,00,000 - ₹9,00,000",Pune,Mid,2025-08-25,600000,900000,Mid,C++,Pune
+Security Analyst,Infosys,Cloud Engineering,"TensorFlow, Power BI, Excel, C++, Python","₹16,00,000 - ₹25,00,000",Bangalore,Mid,2025-12-03,1600000,2500000,Mid,TensorFlow,Bangalore
+Business Analyst,Tech Mahindra,Business Analysis,"C++, Java, Scala, Kubernetes","₹10,00,000 - ₹15,00,000",Pune,Mid,2025-05-07,1000000,1500000,Mid,C++,Pune
+Software Developer,HCL,AI Research,"Tableau, Python, Kubernetes, Excel, AWS","₹10,00,000 - ₹15,00,000",Kolkata,Mid,2025-12-05,1000000,1500000,Mid,Tableau,Kolkata
+Software Developer,Cognizant,Data Science,"TensorFlow, Java, C++, Docker, Power BI","₹3,00,000 - ₹5,00,000",Bangalore,Entry,2025-07-25,300000,500000,Entry,TensorFlow,Bangalore
+Web Developer,Accenture,Web Development,"Python, Java, Scala, Power BI","₹6,00,000 - ₹9,00,000",Coimbatore,Senior,2025-07-11,600000,900000,Senior,Python,Coimbatore
+Data Engineer,HCL,Software Development,"React, TensorFlow, Docker, C++","₹16,00,000 - ₹25,00,000",Pune,Senior,2025-02-12,1600000,2500000,Senior,React,Pune
+Business Analyst,TCS,AI Research,"Excel, TensorFlow, Power BI, Docker","₹10,00,000 - ₹15,00,000",Hyderabad,Entry,2025-03-09,1000000,1500000,Entry,Excel,Hyderabad
+DevOps Engineer,Cognizant,Machine Learning,"Kubernetes, SQL, C++, Linux, Python, Power BI","₹6,00,000 - ₹9,00,000",Bangalore,Mid,2025-01-18,600000,900000,Mid,Kubernetes,Bangalore
+Web Developer,Accenture,Cloud Engineering,"AWS, Spark, Kubernetes, Tableau, React, Linux","₹16,00,000 - ₹25,00,000",Bangalore,Entry,2025-02-23,1600000,2500000,Entry,AWS,Bangalore
+Web Developer,TCS,Web Development,"Spark, Linux, Kubernetes, Excel","₹6,00,000 - ₹9,00,000",Hyderabad,Mid,2025-01-10,600000,900000,Mid,Spark,Hyderabad
+Data Engineer,Amazon,Machine Learning,"Docker, React, Python, Kubernetes, Linux","₹16,00,000 - ₹25,00,000",Kolkata,Mid,2025-10-15,1600000,2500000,Mid,Docker,Kolkata
+Data Engineer,Accenture,Software Development,"Scala, Power BI, C++, Tableau, Linux, SQL","₹3,00,000 - ₹5,00,000",Delhi,Mid,2025-03-28,300000,500000,Mid,Scala,Delhi
+Web Developer,Cognizant,Software Development,"Excel, Tableau, Power BI","₹10,00,000 - ₹15,00,000",Coimbatore,Senior,2025-04-04,1000000,1500000,Senior,Excel,Coimbatore
+DevOps Engineer,Cognizant,Cloud Engineering,"React, Excel, SQL, TensorFlow, Java, C++","₹10,00,000 - ₹15,00,000",Mumbai,Senior,2025-06-26,1000000,1500000,Senior,React,Mumbai
+Data Analyst,Infosys,Business Analysis,"Power BI, AWS, Python, Spark","₹6,00,000 - ₹9,00,000",Delhi,Mid,2025-04-06,600000,900000,Mid,Power BI,Delhi
+Machine Learning Engineer,Tech Mahindra,AI Research,"Python, C++, AWS, Java, Linux","₹3,00,000 - ₹5,00,000",Hyderabad,Mid,2025-01-19,300000,500000,Mid,Python,Hyderabad
+Data Engineer,Wipro,Cybersecurity,"AWS, SQL, Docker, Excel","₹10,00,000 - ₹15,00,000",Chennai,Senior,2025-11-04,1000000,1500000,Senior,AWS,Chennai
+Data Analyst,HCL,Web Development,"Java, Linux, Docker, Kubernetes, C++, Excel","₹16,00,000 - ₹25,00,000",Hyderabad,Entry,2025-07-21,1600000,2500000,Entry,Java,Hyderabad
+DevOps Engineer,TCS,Web Development,"Excel, Spark, Scala, Kubernetes, TensorFlow, Power BI","₹3,00,000 - ₹5,00,000",Chennai,Senior,2025-12-08,300000,500000,Senior,Excel,Chennai
+Business Analyst,Infosys,Business Analysis,"Kubernetes, React, Docker, Linux","₹16,00,000 - ₹25,00,000",Kolkata,Mid,2025-12-01,1600000,2500000,Mid,Kubernetes,Kolkata
+Security Analyst,Accenture,Data Science,"Python, AWS, Kubernetes, Docker, Scala","₹6,00,000 - ₹9,00,000",Bangalore,Senior,2025-10-17,600000,900000,Senior,Python,Bangalore
+Cloud Architect,Infosys,AI Research,"Spark, Java, AWS, TensorFlow, Docker, React","₹6,00,000 - ₹9,00,000",Delhi,Senior,2025-10-17,600000,900000,Senior,Spark,Delhi
+Software Developer,Infosys,Web Development,"Spark, Python, Docker","₹6,00,000 - ₹9,00,000",Kolkata,Mid,2025-11-08,600000,900000,Mid,Spark,Kolkata
+Software Developer,Accenture,Cloud Engineering,"Power BI, Kubernetes, Spark, Scala","₹3,00,000 - ₹5,00,000",Mumbai,Senior,2025-09-15,300000,500000,Senior,Power BI,Mumbai
+Data Analyst,Wipro,Data Science,"Scala, Java, TensorFlow, C++, Tableau, Spark","₹3,00,000 - ₹5,00,000",Pune,Mid,2025-11-14,300000,500000,Mid,Scala,Pune
+Data Engineer,Accenture,Web Development,"Tableau, SQL, Power BI, Scala, Java","₹10,00,000 - ₹15,00,000",Delhi,Entry,2025-06-04,1000000,1500000,Entry,Tableau,Delhi
+Security Analyst,HCL,Data Science,"Tableau, AWS, C++, SQL","₹3,00,000 - ₹5,00,000",Bangalore,Entry,2025-03-09,300000,500000,Entry,Tableau,Bangalore
+Software Developer,Wipro,Web Development,"Spark, Scala, AWS, Linux","₹16,00,000 - ₹25,00,000",Pune,Senior,2025-02-09,1600000,2500000,Senior,Spark,Pune
+Data Analyst,Infosys,Cloud Engineering,"C++, Excel, Spark, Power BI, Scala","₹16,00,000 - ₹25,00,000",Pune,Entry,2025-12-28,1600000,2500000,Entry,C++,Pune
+DevOps Engineer,Google,Web Development,"Excel, Python, SQL, Scala","₹10,00,000 - ₹15,00,000",Mumbai,Senior,2025-06-06,1000000,1500000,Senior,Excel,Mumbai
+Software Developer,HCL,Business Analysis,"Power BI, Tableau, Excel, SQL","₹3,00,000 - ₹5,00,000",Kolkata,Entry,2025-01-16,300000,500000,Entry,Power BI,Kolkata
+Data Engineer,Infosys,Cybersecurity,"Python, Docker, Scala, Kubernetes","₹3,00,000 - ₹5,00,000",Delhi,Mid,2025-09-04,300000,500000,Mid,Python,Delhi
+Software Developer,Infosys,Machine Learning,"Java, Python, C++, Docker, Kubernetes, AWS","₹6,00,000 - ₹9,00,000",Hyderabad,Entry,2025-11-20,600000,900000,Entry,Java,Hyderabad
+Cloud Architect,HCL,Web Development,"TensorFlow, Power BI, Spark, Linux","₹6,00,000 - ₹9,00,000",Bangalore,Entry,2025-11-02,600000,900000,Entry,TensorFlow,Bangalore
+AI Engineer,Tech Mahindra,Web Development,"AWS, Tableau, Kubernetes, React","₹10,00,000 - ₹15,00,000",Chennai,Entry,2025-02-26,1000000,1500000,Entry,AWS,Chennai
+Software Developer,Google,Business Analysis,"Tableau, Python, SQL, Power BI, Kubernetes","₹3,00,000 - ₹5,00,000",Pune,Mid,2025-12-12,300000,500000,Mid,Tableau,Pune
+Business Analyst,Microsoft,Data Science,"Tableau, React, Spark, Linux, Excel","₹6,00,000 - ₹9,00,000",Pune,Senior,2025-03-14,600000,900000,Senior,Tableau,Pune
+Business Analyst,TCS,AI Research,"Spark, Tableau, React, Power BI","₹10,00,000 - ₹15,00,000",Coimbatore,Senior,2025-11-23,1000000,1500000,Senior,Spark,Coimbatore
+Machine Learning Engineer,Microsoft,Cybersecurity,"Excel, Docker, Power BI, Java, AWS","₹16,00,000 - ₹25,00,000",Delhi,Mid,2025-10-14,1600000,2500000,Mid,Excel,Delhi
+AI Engineer,Tech Mahindra,Business Analysis,"Linux, Docker, SQL, Python, Kubernetes","₹3,00,000 - ₹5,00,000",Coimbatore,Senior,2025-09-20,300000,500000,Senior,Linux,Coimbatore
+AI Engineer,Google,AI Research,"Spark, Scala, C++","₹10,00,000 - ₹15,00,000",Delhi,Senior,2025-02-25,1000000,1500000,Senior,Spark,Delhi
+Web Developer,Google,Machine Learning,"Scala, Power BI, C++, AWS, Linux, Docker","₹3,00,000 - ₹5,00,000",Pune,Entry,2025-12-12,300000,500000,Entry,Scala,Pune
+DevOps Engineer,Microsoft,Software Development,"Linux, Tableau, Docker, Spark, TensorFlow","₹16,00,000 - ₹25,00,000",Pune,Entry,2025-11-28,1600000,2500000,Entry,Linux,Pune
+AI Engineer,Wipro,Cloud Engineering,"Java, SQL, Kubernetes, C++","₹10,00,000 - ₹15,00,000",Pune,Senior,2025-03-28,1000000,1500000,Senior,Java,Pune
+Machine Learning Engineer,Wipro,AI Research,"Scala, Tableau, SQL, Java, Excel","₹6,00,000 - ₹9,00,000",Hyderabad,Senior,2025-01-06,600000,900000,Senior,Scala,Hyderabad
+Cloud Architect,Microsoft,Machine Learning,"Java, Power BI, TensorFlow","₹16,00,000 - ₹25,00,000",Hyderabad,Senior,2025-06-20,1600000,2500000,Senior,Java,Hyderabad
+Machine Learning Engineer,Accenture,Cloud Engineering,"Python, SQL, Linux, Excel, React, Java","₹16,00,000 - ₹25,00,000",Chennai,Senior,2025-10-18,1600000,2500000,Senior,Python,Chennai
+Machine Learning Engineer,Google,Software Development,"Power BI, TensorFlow, C++, Tableau, React, Linux","₹3,00,000 - ₹5,00,000",Chennai,Entry,2025-10-23,300000,500000,Entry,Power BI,Chennai
+Business Analyst,Cognizant,Software Development,"React, Linux, Power BI","₹16,00,000 - ₹25,00,000",Kolkata,Mid,2025-11-11,1600000,2500000,Mid,React,Kolkata
+DevOps Engineer,Amazon,Machine Learning,"Tableau, AWS, Python, Scala","₹16,00,000 - ₹25,00,000",Mumbai,Entry,2025-12-28,1600000,2500000,Entry,Tableau,Mumbai
+AI Engineer,Google,AI Research,"React, SQL, Scala, Excel","₹6,00,000 - ₹9,00,000",Bangalore,Mid,2025-12-14,600000,900000,Mid,React,Bangalore
+Cloud Architect,Accenture,AI Research,"SQL, C++, Spark, Linux","₹3,00,000 - ₹5,00,000",Mumbai,Senior,2025-01-25,300000,500000,Senior,SQL,Mumbai
+Data Engineer,HCL,Business Analysis,"Java, Docker, SQL, C++","₹6,00,000 - ₹9,00,000",Chennai,Mid,2025-09-23,600000,900000,Mid,Java,Chennai
+DevOps Engineer,Cognizant,Web Development,"AWS, Docker, Power BI, React","₹6,00,000 - ₹9,00,000",Mumbai,Mid,2025-04-26,600000,900000,Mid,AWS,Mumbai
+Data Engineer,HCL,Cloud Engineering,"Java, Spark, Tableau, Excel, Python, React","₹6,00,000 - ₹9,00,000",Pune,Mid,2025-10-26,600000,900000,Mid,Java,Pune
+Business Analyst,Amazon,Software Development,"C++, SQL, React, Tableau, AWS, Linux","₹10,00,000 - ₹15,00,000",Mumbai,Mid,2025-04-12,1000000,1500000,Mid,C++,Mumbai
+Machine Learning Engineer,HCL,Cloud Engineering,"TensorFlow, Scala, AWS, SQL, Tableau, Docker","₹10,00,000 - ₹15,00,000",Kolkata,Entry,2025-08-25,1000000,1500000,Entry,TensorFlow,Kolkata
+Security Analyst,Cognizant,Web Development,"React, AWS, Power BI, Scala, Java, C++","₹6,00,000 - ₹9,00,000",Bangalore,Mid,2025-07-12,600000,900000,Mid,React,Bangalore
+Software Developer,Cognizant,Business Analysis,"C++, Tableau, AWS, TensorFlow","₹6,00,000 - ₹9,00,000",Kolkata,Mid,2025-04-26,600000,900000,Mid,C++,Kolkata
+AI Engineer,Google,Cloud Engineering,"Kubernetes, Excel, Linux","₹10,00,000 - ₹15,00,000",Kolkata,Mid,2025-03-06,1000000,1500000,Mid,Kubernetes,Kolkata
+Data Engineer,Wipro,Machine Learning,"Excel, SQL, Scala, Docker, Spark, Kubernetes","₹6,00,000 - ₹9,00,000",Coimbatore,Senior,2025-05-14,600000,900000,Senior,Excel,Coimbatore
+Data Engineer,Cognizant,AI Research,"Scala, SQL, Kubernetes, Spark, Tableau","₹16,00,000 - ₹25,00,000",Chennai,Senior,2025-07-25,1600000,2500000,Senior,Scala,Chennai
+Web Developer,HCL,Data Science,"Python, Linux, React, C++, SQL","₹10,00,000 - ₹15,00,000",Delhi,Senior,2025-03-01,1000000,1500000,Senior,Python,Delhi
+Data Engineer,Accenture,Software Development,"Python, Linux, Kubernetes, TensorFlow, SQL","₹3,00,000 - ₹5,00,000",Chennai,Entry,2025-07-09,300000,500000,Entry,Python,Chennai
+Software Developer,HCL,Cloud Engineering,"Tableau, Java, AWS","₹3,00,000 - ₹5,00,000",Kolkata,Entry,2025-06-01,300000,500000,Entry,Tableau,Kolkata
+Cloud Architect,Google,Business Analysis,"Linux, SQL, Excel, Python","₹16,00,000 - ₹25,00,000",Delhi,Senior,2025-08-07,1600000,2500000,Senior,Linux,Delhi
+Business Analyst,Wipro,Cloud Engineering,"C++, Java, TensorFlow, Linux, Spark","₹3,00,000 - ₹5,00,000",Bangalore,Senior,2025-10-18,300000,500000,Senior,C++,Bangalore
+Web Developer,Accenture,AI Research,"Linux, Docker, Python, C++, Tableau","₹3,00,000 - ₹5,00,000",Hyderabad,Mid,2025-08-22,300000,500000,Mid,Linux,Hyderabad
+Web Developer,Tech Mahindra,Business Analysis,"Power BI, Excel, Python, C++","₹6,00,000 - ₹9,00,000",Bangalore,Entry,2025-10-01,600000,900000,Entry,Power BI,Bangalore
+Business Analyst,Tech Mahindra,Machine Learning,"C++, React, Java, Power BI","₹3,00,000 - ₹5,00,000",Coimbatore,Senior,2025-01-25,300000,500000,Senior,C++,Coimbatore
+Data Analyst,HCL,Business Analysis,"React, TensorFlow, Java, Tableau, Kubernetes","₹16,00,000 - ₹25,00,000",Coimbatore,Entry,2025-12-08,1600000,2500000,Entry,React,Coimbatore
+AI Engineer,Wipro,AI Research,"Python, React, TensorFlow, SQL, Java, Scala","₹10,00,000 - ₹15,00,000",Delhi,Senior,2025-01-28,1000000,1500000,Senior,Python,Delhi
+DevOps Engineer,Tech Mahindra,Cybersecurity,"Spark, Linux, Kubernetes, AWS, Python","₹16,00,000 - ₹25,00,000",Hyderabad,Entry,2025-05-10,1600000,2500000,Entry,Spark,Hyderabad
+Security Analyst,Wipro,Data Science,"Python, C++, Tableau, Scala, Kubernetes","₹10,00,000 - ₹15,00,000",Bangalore,Senior,2025-10-27,1000000,1500000,Senior,Python,Bangalore
+Security Analyst,HCL,Cybersecurity,"Spark, TensorFlow, React","₹6,00,000 - ₹9,00,000",Delhi,Senior,2025-12-06,600000,900000,Senior,Spark,Delhi
+Data Analyst,Google,Software Development,"Tableau, Java, Excel, React","₹16,00,000 - ₹25,00,000",Bangalore,Senior,2025-02-01,1600000,2500000,Senior,Tableau,Bangalore
+Software Developer,Cognizant,Business Analysis,"Docker, Spark, Kubernetes","₹3,00,000 - ₹5,00,000",Hyderabad,Entry,2025-02-13,300000,500000,Entry,Docker,Hyderabad
+Data Engineer,Microsoft,Software Development,"SQL, Python, Tableau, Power BI","₹16,00,000 - ₹25,00,000",Bangalore,Entry,2025-07-01,1600000,2500000,Entry,SQL,Bangalore
+AI Engineer,Microsoft,Software Development,"Java, AWS, Excel, Scala","₹3,00,000 - ₹5,00,000",Kolkata,Senior,2025-07-18,300000,500000,Senior,Java,Kolkata
+Data Engineer,Accenture,Web Development,"Excel, Docker, AWS, C++, React","₹3,00,000 - ₹5,00,000",Mumbai,Mid,2025-02-26,300000,500000,Mid,Excel,Mumbai
+Web Developer,Infosys,Business Analysis,"Scala, React, Linux, Java, Power BI","₹16,00,000 - ₹25,00,000",Coimbatore,Entry,2025-08-24,1600000,2500000,Entry,Scala,Coimbatore
+Security Analyst,Cognizant,AI Research,"SQL, TensorFlow, AWS, Python, React","₹6,00,000 - ₹9,00,000",Kolkata,Entry,2025-09-07,600000,900000,Entry,SQL,Kolkata
+Software Developer,Tech Mahindra,Cloud Engineering,"Linux, TensorFlow, C++","₹16,00,000 - ₹25,00,000",Bangalore,Senior,2025-05-11,1600000,2500000,Senior,Linux,Bangalore
+Web Developer,Cognizant,Cybersecurity,"Excel, Power BI, React, Tableau","₹3,00,000 - ₹5,00,000",Bangalore,Senior,2025-10-18,300000,500000,Senior,Excel,Bangalore
+AI Engineer,Google,Machine Learning,"Tableau, Kubernetes, Python","₹6,00,000 - ₹9,00,000",Bangalore,Senior,2025-09-14,600000,900000,Senior,Tableau,Bangalore
+Web Developer,Amazon,AI Research,"Tableau, Scala, Docker, Power BI, Linux, Python","₹16,00,000 - ₹25,00,000",Chennai,Mid,2025-10-15,1600000,2500000,Mid,Tableau,Chennai
+Web Developer,Google,Machine Learning,"Tableau, Excel, React","₹6,00,000 - ₹9,00,000",Mumbai,Mid,2025-11-19,600000,900000,Mid,Tableau,Mumbai
+DevOps Engineer,HCL,Cybersecurity,"Scala, AWS, Power BI, Excel, Linux, C++","₹10,00,000 - ₹15,00,000",Coimbatore,Entry,2025-06-27,1000000,1500000,Entry,Scala,Coimbatore
+Data Analyst,Tech Mahindra,Business Analysis,"Docker, C++, Tableau, Spark","₹6,00,000 - ₹9,00,000",Hyderabad,Entry,2025-03-26,600000,900000,Entry,Docker,Hyderabad
+AI Engineer,Tech Mahindra,Cybersecurity,"Excel, React, C++, TensorFlow, Power BI, AWS","₹10,00,000 - ₹15,00,000",Chennai,Mid,2025-09-08,1000000,1500000,Mid,Excel,Chennai
+Business Analyst,Amazon,Software Development,"Tableau, AWS, Power BI","₹10,00,000 - ₹15,00,000",Mumbai,Senior,2025-11-16,1000000,1500000,Senior,Tableau,Mumbai
+Business Analyst,Cognizant,Software Development,"Spark, TensorFlow, React","₹16,00,000 - ₹25,00,000",Chennai,Entry,2025-02-19,1600000,2500000,Entry,Spark,Chennai
+Data Analyst,Wipro,Software Development,"Java, C++, Spark, AWS, SQL, React","₹16,00,000 - ₹25,00,000",Chennai,Entry,2025-03-09,1600000,2500000,Entry,Java,Chennai
+Business Analyst,Wipro,Cloud Engineering,"Scala, Spark, Docker","₹6,00,000 - ₹9,00,000",Bangalore,Mid,2025-02-15,600000,900000,Mid,Scala,Bangalore
+Data Analyst,Accenture,Data Science,"TensorFlow, Power BI, React, Excel, Spark","₹6,00,000 - ₹9,00,000",Mumbai,Entry,2025-02-11,600000,900000,Entry,TensorFlow,Mumbai
+Web Developer,Infosys,AI Research,"Excel, TensorFlow, Scala","₹16,00,000 - ₹25,00,000",Hyderabad,Mid,2025-09-07,1600000,2500000,Mid,Excel,Hyderabad
+Machine Learning Engineer,Cognizant,AI Research,"Scala, Kubernetes, SQL, Power BI, Docker","₹16,00,000 - ₹25,00,000",Kolkata,Entry,2025-07-24,1600000,2500000,Entry,Scala,Kolkata
+Software Developer,TCS,Machine Learning,"React, Tableau, TensorFlow, AWS","₹10,00,000 - ₹15,00,000",Kolkata,Mid,2025-05-14,1000000,1500000,Mid,React,Kolkata
+Software Developer,TCS,AI Research,"React, Kubernetes, Tableau, SQL","₹10,00,000 - ₹15,00,000",Bangalore,Entry,2025-02-14,1000000,1500000,Entry,React,Bangalore
+DevOps Engineer,Accenture,Cloud Engineering,"Linux, AWS, Tableau, TensorFlow, SQL, Power BI","₹6,00,000 - ₹9,00,000",Coimbatore,Senior,2025-12-22,600000,900000,Senior,Linux,Coimbatore
+Cloud Architect,Microsoft,Machine Learning,"Docker, C++, Java, Tableau, Power BI","₹10,00,000 - ₹15,00,000",Mumbai,Entry,2025-04-06,1000000,1500000,Entry,Docker,Mumbai
+Software Developer,Accenture,Cybersecurity,"React, Power BI, AWS, Kubernetes, TensorFlow, SQL","₹6,00,000 - ₹9,00,000",Coimbatore,Senior,2025-08-20,600000,900000,Senior,React,Coimbatore
+DevOps Engineer,Amazon,Web Development,"C++, Scala, SQL, Python","₹3,00,000 - ₹5,00,000",Delhi,Mid,2025-09-01,300000,500000,Mid,C++,Delhi
+Cloud Architect,Cognizant,AI Research,"Power BI, Spark, Linux, Docker, Scala","₹16,00,000 - ₹25,00,000",Chennai,Entry,2025-12-06,1600000,2500000,Entry,Power BI,Chennai
+Security Analyst,Infosys,Data Science,"TensorFlow, Power BI, Linux, Tableau, Java","₹6,00,000 - ₹9,00,000",Kolkata,Mid,2025-06-20,600000,900000,Mid,TensorFlow,Kolkata
+Machine Learning Engineer,Wipro,AI Research,"Python, Spark, C++, Scala, AWS","₹6,00,000 - ₹9,00,000",Coimbatore,Entry,2025-03-22,600000,900000,Entry,Python,Coimbatore
+Software Developer,Tech Mahindra,Cybersecurity,"Excel, Python, TensorFlow, Linux, React","₹10,00,000 - ₹15,00,000",Delhi,Mid,2025-12-15,1000000,1500000,Mid,Excel,Delhi
+Machine Learning Engineer,Infosys,Cybersecurity,"TensorFlow, React, Spark, AWS","₹16,00,000 - ₹25,00,000",Delhi,Mid,2025-11-18,1600000,2500000,Mid,TensorFlow,Delhi
+Business Analyst,Infosys,Cybersecurity,"SQL, Python, Kubernetes, Linux","₹10,00,000 - ₹15,00,000",Hyderabad,Senior,2025-01-15,1000000,1500000,Senior,SQL,Hyderabad
+Web Developer,Microsoft,Web Development,"Java, C++, Power BI","₹10,00,000 - ₹15,00,000",Coimbatore,Senior,2025-09-08,1000000,1500000,Senior,Java,Coimbatore
+DevOps Engineer,Amazon,Business Analysis,"Python, Kubernetes, Docker, Excel, Linux, React","₹16,00,000 - ₹25,00,000",Kolkata,Entry,2025-04-21,1600000,2500000,Entry,Python,Kolkata
+Business Analyst,Accenture,Software Development,"Linux, Kubernetes, React, Java, Tableau, TensorFlow","₹16,00,000 - ₹25,00,000",Bangalore,Mid,2025-02-11,1600000,2500000,Mid,Linux,Bangalore
+Software Developer,Cognizant,Machine Learning,"C++, Scala, Java, React, Spark","₹6,00,000 - ₹9,00,000",Hyderabad,Mid,2025-02-20,600000,900000,Mid,C++,Hyderabad
+Software Developer,HCL,Business Analysis,"Excel, C++, Linux, TensorFlow, Python","₹10,00,000 - ₹15,00,000",Kolkata,Mid,2025-09-02,1000000,1500000,Mid,Excel,Kolkata
+Web Developer,Amazon,Business Analysis,"Tableau, TensorFlow, React","₹16,00,000 - ₹25,00,000",Delhi,Entry,2025-02-11,1600000,2500000,Entry,Tableau,Delhi
+Software Developer,HCL,Cloud Engineering,"C++, Python, Linux, React","₹3,00,000 - ₹5,00,000",Pune,Senior,2025-08-19,300000,500000,Senior,C++,Pune
+Machine Learning Engineer,Infosys,Software Development,"Docker, Python, Tableau, Spark, Kubernetes","₹3,00,000 - ₹5,00,000",Hyderabad,Senior,2025-02-22,300000,500000,Senior,Docker,Hyderabad
+Business Analyst,Wipro,Cloud Engineering,"Python, Docker, Power BI, SQL, Excel, Java","₹3,00,000 - ₹5,00,000",Bangalore,Mid,2025-07-10,300000,500000,Mid,Python,Bangalore
+Machine Learning Engineer,Amazon,Data Science,"AWS, C++, Java, Linux, React","₹3,00,000 - ₹5,00,000",Mumbai,Senior,2025-12-06,300000,500000,Senior,AWS,Mumbai
+Security Analyst,TCS,Web Development,"React, Tableau, Linux","₹3,00,000 - ₹5,00,000",Bangalore,Entry,2025-07-26,300000,500000,Entry,React,Bangalore
+Security Analyst,Infosys,Cloud Engineering,"Docker, SQL, Scala","₹3,00,000 - ₹5,00,000",Pune,Senior,2025-01-27,300000,500000,Senior,Docker,Pune
+DevOps Engineer,Accenture,Machine Learning,"Tableau, TensorFlow, Linux, React","₹6,00,000 - ₹9,00,000",Chennai,Senior,2025-11-15,600000,900000,Senior,Tableau,Chennai
+Software Developer,Amazon,Data Science,"Scala, Power BI, C++","₹16,00,000 - ₹25,00,000",Kolkata,Mid,2025-09-08,1600000,2500000,Mid,Scala,Kolkata
+Data Engineer,HCL,Web Development,"React, Spark, Power BI","₹6,00,000 - ₹9,00,000",Chennai,Senior,2025-01-07,600000,900000,Senior,React,Chennai
+Software Developer,Infosys,Machine Learning,"Power BI, Docker, React","₹6,00,000 - ₹9,00,000",Pune,Entry,2025-12-02,600000,900000,Entry,Power BI,Pune
+Data Analyst,Infosys,Cybersecurity,"SQL, Java, Power BI","₹10,00,000 - ₹15,00,000",Bangalore,Mid,2025-07-01,1000000,1500000,Mid,SQL,Bangalore
+Software Developer,Accenture,AI Research,"Python, C++, Power BI, React, Tableau, Docker","₹10,00,000 - ₹15,00,000",Chennai,Senior,2025-10-01,1000000,1500000,Senior,Python,Chennai
+Web Developer,Cognizant,Business Analysis,"Linux, Docker, Scala, Tableau, Spark","₹6,00,000 - ₹9,00,000",Chennai,Entry,2025-10-24,600000,900000,Entry,Linux,Chennai
+Machine Learning Engineer,TCS,Cybersecurity,"Kubernetes, Power BI, Spark, Java","₹16,00,000 - ₹25,00,000",Chennai,Mid,2025-05-24,1600000,2500000,Mid,Kubernetes,Chennai
+DevOps Engineer,Microsoft,Cybersecurity,"C++, Scala, TensorFlow, Tableau, Kubernetes, Excel","₹3,00,000 - ₹5,00,000",Coimbatore,Entry,2025-03-10,300000,500000,Entry,C++,Coimbatore
+Cloud Architect,HCL,Web Development,"AWS, React, Java, Excel, Docker","₹6,00,000 - ₹9,00,000",Kolkata,Entry,2025-05-17,600000,900000,Entry,AWS,Kolkata
+Data Analyst,HCL,Business Analysis,"Scala, Java, C++","₹16,00,000 - ₹25,00,000",Delhi,Mid,2025-12-21,1600000,2500000,Mid,Scala,Delhi
+Software Developer,Wipro,Cloud Engineering,"C++, SQL, Excel, Power BI","₹3,00,000 - ₹5,00,000",Mumbai,Mid,2025-10-01,300000,500000,Mid,C++,Mumbai
+Machine Learning Engineer,Tech Mahindra,Cloud Engineering,"Kubernetes, React, AWS, Excel, Spark","₹16,00,000 - ₹25,00,000",Hyderabad,Entry,2025-06-11,1600000,2500000,Entry,Kubernetes,Hyderabad
+Cloud Architect,Microsoft,Cybersecurity,"Tableau, Spark, React","₹16,00,000 - ₹25,00,000",Bangalore,Mid,2025-02-07,1600000,2500000,Mid,Tableau,Bangalore
+DevOps Engineer,Wipro,AI Research,"Python, AWS, Java, C++, Excel","₹10,00,000 - ₹15,00,000",Kolkata,Entry,2025-12-01,1000000,1500000,Entry,Python,Kolkata
+Machine Learning Engineer,HCL,Machine Learning,"Java, Linux, AWS, Docker, Scala, Power BI","₹10,00,000 - ₹15,00,000",Hyderabad,Senior,2025-01-09,1000000,1500000,Senior,Java,Hyderabad
+Web Developer,Microsoft,Cybersecurity,"Excel, React, Python","₹3,00,000 - ₹5,00,000",Coimbatore,Senior,2025-06-19,300000,500000,Senior,Excel,Coimbatore
+Data Analyst,Infosys,Software Development,"Kubernetes, Docker, React, Spark, TensorFlow","₹10,00,000 - ₹15,00,000",Hyderabad,Senior,2025-02-26,1000000,1500000,Senior,Kubernetes,Hyderabad
+Data Analyst,Amazon,Software Development,"Excel, React, Linux, TensorFlow","₹10,00,000 - ₹15,00,000",Chennai,Senior,2025-10-17,1000000,1500000,Senior,Excel,Chennai
+Security Analyst,Infosys,Machine Learning,"AWS, Python, C++","₹16,00,000 - ₹25,00,000",Coimbatore,Senior,2025-09-27,1600000,2500000,Senior,AWS,Coimbatore
+Data Analyst,Wipro,AI Research,"Docker, Scala, React, Excel, Linux","₹16,00,000 - ₹25,00,000",Bangalore,Senior,2025-07-25,1600000,2500000,Senior,Docker,Bangalore
+Data Analyst,TCS,Cybersecurity,"TensorFlow, Java, Tableau","₹6,00,000 - ₹9,00,000",Chennai,Senior,2025-09-19,600000,900000,Senior,TensorFlow,Chennai
+Data Engineer,Infosys,Data Science,"Tableau, Spark, Java","₹16,00,000 - ₹25,00,000",Coimbatore,Senior,2025-02-22,1600000,2500000,Senior,Tableau,Coimbatore
+Business Analyst,Wipro,Business Analysis,"Spark, AWS, Kubernetes, Scala","₹6,00,000 - ₹9,00,000",Pune,Senior,2025-11-02,600000,900000,Senior,Spark,Pune
+Data Engineer,Microsoft,Software Development,"React, SQL, Scala, Linux, Power BI","₹3,00,000 - ₹5,00,000",Coimbatore,Entry,2025-09-28,300000,500000,Entry,React,Coimbatore
+AI Engineer,Cognizant,AI Research,"Tableau, AWS, Java, Linux, Python","₹6,00,000 - ₹9,00,000",Bangalore,Entry,2025-03-03,600000,900000,Entry,Tableau,Bangalore
+Web Developer,Cognizant,Web Development,"Power BI, React, C++","₹10,00,000 - ₹15,00,000",Kolkata,Senior,2025-03-03,1000000,1500000,Senior,Power BI,Kolkata
+Web Developer,Microsoft,Software Development,"Excel, Tableau, Linux, Java","₹6,00,000 - ₹9,00,000",Chennai,Senior,2025-11-08,600000,900000,Senior,Excel,Chennai
+AI Engineer,Wipro,Business Analysis,"Kubernetes, Excel, Docker, SQL","₹6,00,000 - ₹9,00,000",Delhi,Mid,2025-11-19,600000,900000,Mid,Kubernetes,Delhi
+DevOps Engineer,Amazon,Business Analysis,"C++, Python, TensorFlow, Spark, Docker","₹3,00,000 - ₹5,00,000",Chennai,Mid,2025-02-14,300000,500000,Mid,C++,Chennai
+Machine Learning Engineer,Cognizant,Data Science,"SQL, Excel, Scala, C++, React, Kubernetes","₹3,00,000 - ₹5,00,000",Kolkata,Senior,2025-10-05,300000,500000,Senior,SQL,Kolkata
+AI Engineer,Amazon,Business Analysis,"AWS, C++, TensorFlow","₹10,00,000 - ₹15,00,000",Hyderabad,Entry,2025-08-18,1000000,1500000,Entry,AWS,Hyderabad
+Data Engineer,HCL,Web Development,"Tableau, Scala, Python, Excel, SQL","₹16,00,000 - ₹25,00,000",Chennai,Senior,2025-12-11,1600000,2500000,Senior,Tableau,Chennai
+Data Engineer,Tech Mahindra,Web Development,"Power BI, Linux, Tableau, Scala","₹16,00,000 - ₹25,00,000",Hyderabad,Entry,2025-10-02,1600000,2500000,Entry,Power BI,Hyderabad
+Security Analyst,Microsoft,Machine Learning,"Tableau, AWS, Scala, Power BI, Java, Python","₹10,00,000 - ₹15,00,000",Delhi,Entry,2025-10-13,1000000,1500000,Entry,Tableau,Delhi
+Web Developer,HCL,Web Development,"React, Excel, Docker","₹16,00,000 - ₹25,00,000",Mumbai,Entry,2025-02-24,1600000,2500000,Entry,React,Mumbai
+Software Developer,Cognizant,Data Science,"Java, AWS, Linux, Docker","₹6,00,000 - ₹9,00,000",Bangalore,Entry,2025-04-12,600000,900000,Entry,Java,Bangalore
+Security Analyst,Google,Business Analysis,"SQL, Scala, Python, Java, Docker, Power BI","₹3,00,000 - ₹5,00,000",Bangalore,Senior,2025-02-12,300000,500000,Senior,SQL,Bangalore
+Data Engineer,Microsoft,Data Science,"TensorFlow, Python, Linux","₹16,00,000 - ₹25,00,000",Pune,Entry,2025-06-07,1600000,2500000,Entry,TensorFlow,Pune
+Web Developer,Accenture,AI Research,"Tableau, Linux, Docker, Scala, React, TensorFlow","₹6,00,000 - ₹9,00,000",Chennai,Entry,2025-11-23,600000,900000,Entry,Tableau,Chennai
+DevOps Engineer,Microsoft,Data Science,"Excel, Spark, TensorFlow","₹10,00,000 - ₹15,00,000",Mumbai,Mid,2025-08-05,1000000,1500000,Mid,Excel,Mumbai
+Machine Learning Engineer,Accenture,Cybersecurity,"Scala, Tableau, Docker, Excel","₹16,00,000 - ₹25,00,000",Pune,Entry,2025-10-18,1600000,2500000,Entry,Scala,Pune
+Cloud Architect,Cognizant,Cybersecurity,"Power BI, Linux, Spark, Kubernetes, Tableau","₹6,00,000 - ₹9,00,000",Kolkata,Entry,2025-11-20,600000,900000,Entry,Power BI,Kolkata
+Software Developer,TCS,Cloud Engineering,"Kubernetes, AWS, C++, React","₹16,00,000 - ₹25,00,000",Kolkata,Mid,2025-09-20,1600000,2500000,Mid,Kubernetes,Kolkata
+Data Analyst,Microsoft,Machine Learning,"Excel, SQL, Java, TensorFlow, Linux, Python","₹3,00,000 - ₹5,00,000",Delhi,Senior,2025-12-24,300000,500000,Senior,Excel,Delhi
+Data Analyst,Google,Cybersecurity,"Python, Tableau, Java, Excel, Linux","₹16,00,000 - ₹25,00,000",Chennai,Entry,2025-02-04,1600000,2500000,Entry,Python,Chennai
+Data Analyst,Cognizant,AI Research,"Python, Kubernetes, Spark","₹6,00,000 - ₹9,00,000",Bangalore,Entry,2025-12-08,600000,900000,Entry,Python,Bangalore
+Data Analyst,Tech Mahindra,Web Development,"TensorFlow, Excel, Power BI, Docker, Scala, Linux","₹6,00,000 - ₹9,00,000",Mumbai,Senior,2025-08-12,600000,900000,Senior,TensorFlow,Mumbai
+Business Analyst,TCS,AI Research,"Linux, TensorFlow, Power BI, C++","₹10,00,000 - ₹15,00,000",Chennai,Entry,2025-11-26,1000000,1500000,Entry,Linux,Chennai
+Software Developer,Accenture,Machine Learning,"Scala, C++, Tableau","₹3,00,000 - ₹5,00,000",Chennai,Senior,2025-04-19,300000,500000,Senior,Scala,Chennai
+Software Developer,Accenture,Cybersecurity,"AWS, Kubernetes, SQL, Excel, C++, React","₹6,00,000 - ₹9,00,000",Delhi,Entry,2025-06-08,600000,900000,Entry,AWS,Delhi
+DevOps Engineer,Tech Mahindra,Cloud Engineering,"Linux, SQL, Tableau, TensorFlow, React","₹10,00,000 - ₹15,00,000",Pune,Mid,2025-12-16,1000000,1500000,Mid,Linux,Pune
+Data Engineer,Cognizant,Data Science,"Docker, Tableau, Python, Linux, TensorFlow, C++","₹6,00,000 - ₹9,00,000",Bangalore,Entry,2025-07-18,600000,900000,Entry,Docker,Bangalore
+AI Engineer,TCS,Machine Learning,"Power BI, TensorFlow, SQL, React","₹6,00,000 - ₹9,00,000",Bangalore,Mid,2025-08-04,600000,900000,Mid,Power BI,Bangalore
+Software Developer,Infosys,Web Development,"TensorFlow, Power BI, Scala, SQL","₹16,00,000 - ₹25,00,000",Mumbai,Entry,2025-12-01,1600000,2500000,Entry,TensorFlow,Mumbai
+Data Engineer,TCS,Machine Learning,"Kubernetes, Docker, Scala","₹3,00,000 - ₹5,00,000",Delhi,Mid,2025-01-17,300000,500000,Mid,Kubernetes,Delhi
+Cloud Architect,Microsoft,Cloud Engineering,"Docker, SQL, Spark, React, Excel","₹6,00,000 - ₹9,00,000",Mumbai,Senior,2025-05-13,600000,900000,Senior,Docker,Mumbai
+DevOps Engineer,Infosys,Cybersecurity,"TensorFlow, Java, Linux, Docker","₹16,00,000 - ₹25,00,000",Delhi,Mid,2025-10-23,1600000,2500000,Mid,TensorFlow,Delhi
+Web Developer,Cognizant,Data Science,"Docker, C++, Linux","₹10,00,000 - ₹15,00,000",Coimbatore,Senior,2025-04-21,1000000,1500000,Senior,Docker,Coimbatore
+AI Engineer,Tech Mahindra,Machine Learning,"Docker, Scala, TensorFlow, Excel, Python","₹3,00,000 - ₹5,00,000",Hyderabad,Senior,2025-02-13,300000,500000,Senior,Docker,Hyderabad
+Data Engineer,Infosys,Cybersecurity,"Kubernetes, Tableau, Excel","₹6,00,000 - ₹9,00,000",Pune,Mid,2025-01-07,600000,900000,Mid,Kubernetes,Pune
+Software Developer,Wipro,Software Development,"Tableau, Power BI, TensorFlow, Excel, Scala, C++","₹3,00,000 - ₹5,00,000",Mumbai,Entry,2025-06-23,300000,500000,Entry,Tableau,Mumbai
+AI Engineer,Infosys,Machine Learning,"Linux, SQL, Java, Tableau, Spark","₹6,00,000 - ₹9,00,000",Chennai,Entry,2025-08-15,600000,900000,Entry,Linux,Chennai
+Machine Learning Engineer,HCL,Cloud Engineering,"Excel, Linux, TensorFlow, Tableau","₹10,00,000 - ₹15,00,000",Delhi,Senior,2025-11-17,1000000,1500000,Senior,Excel,Delhi
+Business Analyst,HCL,AI Research,"Java, Docker, Kubernetes","₹3,00,000 - ₹5,00,000",Chennai,Mid,2025-09-03,300000,500000,Mid,Java,Chennai
+Data Engineer,Wipro,Data Science,"React, Docker, Power BI, Spark, Tableau, Kubernetes","₹16,00,000 - ₹25,00,000",Delhi,Entry,2025-01-17,1600000,2500000,Entry,React,Delhi
+Data Engineer,Cognizant,Cloud Engineering,"Power BI, TensorFlow, React, Linux","₹10,00,000 - ₹15,00,000",Kolkata,Senior,2025-05-16,1000000,1500000,Senior,Power BI,Kolkata
+Machine Learning Engineer,Microsoft,Data Science,"TensorFlow, Excel, Docker, Linux, Tableau","₹3,00,000 - ₹5,00,000",Chennai,Senior,2025-01-15,300000,500000,Senior,TensorFlow,Chennai
+Security Analyst,Cognizant,Machine Learning,"TensorFlow, Power BI, Kubernetes, React","₹10,00,000 - ₹15,00,000",Bangalore,Entry,2025-02-08,1000000,1500000,Entry,TensorFlow,Bangalore
+Data Engineer,TCS,Cloud Engineering,"Power BI, Spark, SQL, Excel, Python","₹16,00,000 - ₹25,00,000",Mumbai,Entry,2025-06-26,1600000,2500000,Entry,Power BI,Mumbai
+DevOps Engineer,Microsoft,Data Science,"Java, Spark, C++, AWS, React, Python","₹10,00,000 - ₹15,00,000",Chennai,Mid,2025-01-17,1000000,1500000,Mid,Java,Chennai
+Software Developer,Infosys,Cybersecurity,"Spark, C++, Linux, React","₹6,00,000 - ₹9,00,000",Bangalore,Senior,2025-04-25,600000,900000,Senior,Spark,Bangalore
+Web Developer,Accenture,Machine Learning,"Docker, TensorFlow, Kubernetes, Java, Scala, SQL","₹16,00,000 - ₹25,00,000",Delhi,Senior,2025-05-03,1600000,2500000,Senior,Docker,Delhi
+Business Analyst,HCL,Cloud Engineering,"C++, Java, Spark, Kubernetes, TensorFlow","₹6,00,000 - ₹9,00,000",Hyderabad,Senior,2025-09-22,600000,900000,Senior,C++,Hyderabad
+Business Analyst,TCS,Data Science,"Kubernetes, Python, Power BI, Java, Scala, React","₹6,00,000 - ₹9,00,000",Hyderabad,Entry,2025-07-21,600000,900000,Entry,Kubernetes,Hyderabad
+Security Analyst,Wipro,Business Analysis,"Tableau, C++, SQL, Java, Excel, Scala","₹10,00,000 - ₹15,00,000",Pune,Mid,2025-09-08,1000000,1500000,Mid,Tableau,Pune
+Security Analyst,TCS,Software Development,"Java, Excel, AWS, React, SQL","₹10,00,000 - ₹15,00,000",Kolkata,Entry,2025-03-27,1000000,1500000,Entry,Java,Kolkata
+Data Analyst,Google,Cloud Engineering,"Docker, Excel, Linux, AWS, C++, React","₹16,00,000 - ₹25,00,000",Mumbai,Entry,2025-07-14,1600000,2500000,Entry,Docker,Mumbai
+Cloud Architect,Amazon,Web Development,"Docker, AWS, TensorFlow, C++, Kubernetes","₹16,00,000 - ₹25,00,000",Delhi,Senior,2025-01-16,1600000,2500000,Senior,Docker,Delhi
+AI Engineer,Tech Mahindra,AI Research,"Python, Excel, Power BI, Linux, Scala","₹16,00,000 - ₹25,00,000",Hyderabad,Senior,2025-02-12,1600000,2500000,Senior,Python,Hyderabad
+Cloud Architect,Wipro,Web Development,"Power BI, Kubernetes, Docker, AWS","₹3,00,000 - ₹5,00,000",Hyderabad,Senior,2025-05-04,300000,500000,Senior,Power BI,Hyderabad
+Data Engineer,Accenture,Cybersecurity,"TensorFlow, AWS, Linux","₹6,00,000 - ₹9,00,000",Delhi,Mid,2025-06-08,600000,900000,Mid,TensorFlow,Delhi
+Software Developer,Infosys,Web Development,"TensorFlow, Tableau, Python, AWS, C++, Linux","₹16,00,000 - ₹25,00,000",Chennai,Mid,2025-05-12,1600000,2500000,Mid,TensorFlow,Chennai
+DevOps Engineer,Infosys,Business Analysis,"Linux, Java, Spark, Scala","₹10,00,000 - ₹15,00,000",Coimbatore,Mid,2025-09-01,1000000,1500000,Mid,Linux,Coimbatore
+Software Developer,Tech Mahindra,AI Research,"Java, Excel, TensorFlow","₹16,00,000 - ₹25,00,000",Kolkata,Mid,2025-06-05,1600000,2500000,Mid,Java,Kolkata
+Security Analyst,HCL,Business Analysis,"AWS, Linux, React","₹6,00,000 - ₹9,00,000",Mumbai,Entry,2025-05-23,600000,900000,Entry,AWS,Mumbai
+Machine Learning Engineer,Microsoft,Data Science,"Linux, TensorFlow, Spark","₹16,00,000 - ₹25,00,000",Delhi,Entry,2025-08-18,1600000,2500000,Entry,Linux,Delhi
+Data Engineer,Amazon,Data Science,"Java, C++, Tableau, AWS","₹10,00,000 - ₹15,00,000",Mumbai,Mid,2025-10-09,1000000,1500000,Mid,Java,Mumbai
+Data Analyst,Microsoft,AI Research,"React, Kubernetes, Linux, Tableau, Power BI, Scala","₹16,00,000 - ₹25,00,000",Coimbatore,Senior,2025-07-19,1600000,2500000,Senior,React,Coimbatore
+Data Analyst,Infosys,Data Science,"AWS, C++, Power BI, Docker","₹6,00,000 - ₹9,00,000",Pune,Mid,2025-09-03,600000,900000,Mid,AWS,Pune
+Business Analyst,Amazon,Web Development,"Java, Scala, Spark, Kubernetes","₹16,00,000 - ₹25,00,000",Pune,Senior,2025-05-08,1600000,2500000,Senior,Java,Pune
+DevOps Engineer,Infosys,Software Development,"Power BI, Python, Linux, Docker, Excel","₹3,00,000 - ₹5,00,000",Hyderabad,Entry,2025-07-15,300000,500000,Entry,Power BI,Hyderabad
+Data Analyst,HCL,Software Development,"Excel, Python, Scala, C++","₹10,00,000 - ₹15,00,000",Coimbatore,Senior,2025-04-03,1000000,1500000,Senior,Excel,Coimbatore
+Data Analyst,TCS,AI Research,"SQL, TensorFlow, Excel, Scala","₹10,00,000 - ₹15,00,000",Hyderabad,Mid,2025-02-07,1000000,1500000,Mid,SQL,Hyderabad
+Data Engineer,Wipro,AI Research,"Tableau, Kubernetes, AWS","₹10,00,000 - ₹15,00,000",Mumbai,Mid,2025-08-25,1000000,1500000,Mid,Tableau,Mumbai
+Data Analyst,Infosys,Web Development,"TensorFlow, SQL, Python, Excel, Power BI, C++","₹10,00,000 - ₹15,00,000",Chennai,Senior,2025-09-15,1000000,1500000,Senior,TensorFlow,Chennai
+Software Developer,Tech Mahindra,Web Development,"Scala, Spark, Kubernetes, AWS","₹3,00,000 - ₹5,00,000",Bangalore,Mid,2025-08-06,300000,500000,Mid,Scala,Bangalore
+Cloud Architect,Cognizant,Cloud Engineering,"AWS, Python, Docker, Excel, C++","₹6,00,000 - ₹9,00,000",Kolkata,Senior,2025-12-25,600000,900000,Senior,AWS,Kolkata
+Cloud Architect,Cognizant,AI Research,"Tableau, Power BI, Python, Linux, Docker","₹6,00,000 - ₹9,00,000",Pune,Mid,2025-10-02,600000,900000,Mid,Tableau,Pune
+Data Analyst,Cognizant,Business Analysis,"Excel, Scala, Java","₹3,00,000 - ₹5,00,000",Mumbai,Senior,2025-02-26,300000,500000,Senior,Excel,Mumbai
+Software Developer,Microsoft,Business Analysis,"Spark, Java, Linux","₹3,00,000 - ₹5,00,000",Hyderabad,Mid,2025-02-01,300000,500000,Mid,Spark,Hyderabad
+Data Engineer,Infosys,Cloud Engineering,"Scala, React, Linux, C++, Python, Kubernetes","₹16,00,000 - ₹25,00,000",Hyderabad,Senior,2025-06-09,1600000,2500000,Senior,Scala,Hyderabad
+Machine Learning Engineer,HCL,Web Development,"Excel, TensorFlow, Scala, React, Linux","₹10,00,000 - ₹15,00,000",Mumbai,Senior,2025-11-21,1000000,1500000,Senior,Excel,Mumbai
+Web Developer,Wipro,Web Development,"Java, Docker, Tableau, Python, React, Scala","₹16,00,000 - ₹25,00,000",Chennai,Entry,2025-08-25,1600000,2500000,Entry,Java,Chennai
+Data Analyst,Infosys,Web Development,"Kubernetes, React, Docker","₹10,00,000 - ₹15,00,000",Pune,Entry,2025-05-20,1000000,1500000,Entry,Kubernetes,Pune
+Data Analyst,Infosys,Business Analysis,"AWS, TensorFlow, SQL, Python, Linux","₹16,00,000 - ₹25,00,000",Delhi,Mid,2025-12-08,1600000,2500000,Mid,AWS,Delhi
+Security Analyst,Infosys,AI Research,"Tableau, SQL, Excel, Python, C++","₹10,00,000 - ₹15,00,000",Coimbatore,Mid,2025-02-11,1000000,1500000,Mid,Tableau,Coimbatore
+AI Engineer,Amazon,Cybersecurity,"Power BI, TensorFlow, Docker","₹16,00,000 - ₹25,00,000",Bangalore,Mid,2025-04-04,1600000,2500000,Mid,Power BI,Bangalore
+DevOps Engineer,Amazon,Machine Learning,"Spark, C++, Java, Power BI, Kubernetes","₹16,00,000 - ₹25,00,000",Mumbai,Senior,2025-09-18,1600000,2500000,Senior,Spark,Mumbai
+DevOps Engineer,Wipro,Data Science,"Tableau, Scala, Linux, Spark, Python, C++","₹6,00,000 - ₹9,00,000",Chennai,Entry,2025-09-13,600000,900000,Entry,Tableau,Chennai
+DevOps Engineer,Amazon,Data Science,"Python, Docker, Scala, AWS, Linux, Kubernetes","₹6,00,000 - ₹9,00,000",Delhi,Mid,2025-02-22,600000,900000,Mid,Python,Delhi
+Security Analyst,Infosys,AI Research,"Java, Python, Excel, Kubernetes, Docker, Power BI","₹6,00,000 - ₹9,00,000",Hyderabad,Mid,2025-01-28,600000,900000,Mid,Java,Hyderabad
+Web Developer,TCS,Data Science,"React, AWS, Tableau, C++","₹6,00,000 - ₹9,00,000",Kolkata,Senior,2025-01-13,600000,900000,Senior,React,Kolkata
+Cloud Architect,Infosys,Software Development,"Java, TensorFlow, Scala","₹3,00,000 - ₹5,00,000",Hyderabad,Mid,2025-11-10,300000,500000,Mid,Java,Hyderabad
+Security Analyst,Amazon,Web Development,"Tableau, TensorFlow, Java, Power BI, Scala","₹6,00,000 - ₹9,00,000",Bangalore,Senior,2025-08-08,600000,900000,Senior,Tableau,Bangalore
+Web Developer,HCL,Cybersecurity,"React, Power BI, SQL, AWS","₹10,00,000 - ₹15,00,000",Bangalore,Senior,2025-07-07,1000000,1500000,Senior,React,Bangalore
+Data Engineer,Wipro,AI Research,"Power BI, Docker, Python, Excel, Tableau","₹3,00,000 - ₹5,00,000",Kolkata,Entry,2025-10-26,300000,500000,Entry,Power BI,Kolkata
+Software Developer,Microsoft,Data Science,"React, Linux, TensorFlow, Kubernetes, Java","₹3,00,000 - ₹5,00,000",Kolkata,Entry,2025-02-03,300000,500000,Entry,React,Kolkata
+AI Engineer,Amazon,Cybersecurity,"Java, Linux, TensorFlow, Excel, SQL","₹16,00,000 - ₹25,00,000",Hyderabad,Senior,2025-07-26,1600000,2500000,Senior,Java,Hyderabad
+Web Developer,TCS,Web Development,"Spark, Tableau, SQL","₹10,00,000 - ₹15,00,000",Coimbatore,Senior,2025-09-19,1000000,1500000,Senior,Spark,Coimbatore
+AI Engineer,Tech Mahindra,Cloud Engineering,"C++, Python, Spark, Kubernetes, AWS","₹16,00,000 - ₹25,00,000",Delhi,Mid,2025-10-19,1600000,2500000,Mid,C++,Delhi
+Cloud Architect,Wipro,Data Science,"Python, AWS, C++, Docker","₹10,00,000 - ₹15,00,000",Delhi,Mid,2025-09-23,1000000,1500000,Mid,Python,Delhi
+Cloud Architect,Amazon,Cybersecurity,"Spark, SQL, Docker, Python","₹3,00,000 - ₹5,00,000",Bangalore,Mid,2025-07-14,300000,500000,Mid,Spark,Bangalore
+AI Engineer,Infosys,Cloud Engineering,"Python, Scala, TensorFlow","₹3,00,000 - ₹5,00,000",Chennai,Senior,2025-04-01,300000,500000,Senior,Python,Chennai
+Machine Learning Engineer,Google,AI Research,"TensorFlow, C++, Python, Kubernetes, Java, Docker","₹6,00,000 - ₹9,00,000",Coimbatore,Senior,2025-01-25,600000,900000,Senior,TensorFlow,Coimbatore
+Machine Learning Engineer,Wipro,AI Research,"Kubernetes, Scala, React, Spark, AWS","₹3,00,000 - ₹5,00,000",Pune,Mid,2025-12-17,300000,500000,Mid,Kubernetes,Pune
+Machine Learning Engineer,Wipro,Web Development,"Java, Scala, React, Linux","₹6,00,000 - ₹9,00,000",Pune,Senior,2025-11-11,600000,900000,Senior,Java,Pune
+DevOps Engineer,Google,Software Development,"React, SQL, Java, Linux, Kubernetes","₹3,00,000 - ₹5,00,000",Mumbai,Senior,2025-02-20,300000,500000,Senior,React,Mumbai
+Cloud Architect,HCL,Cybersecurity,"TensorFlow, Kubernetes, Spark, Docker","₹16,00,000 - ₹25,00,000",Pune,Senior,2025-02-19,1600000,2500000,Senior,TensorFlow,Pune
+AI Engineer,Google,AI Research,"Scala, TensorFlow, React, Spark, Python","₹3,00,000 - ₹5,00,000",Delhi,Mid,2025-04-20,300000,500000,Mid,Scala,Delhi
+Cloud Architect,Tech Mahindra,Cybersecurity,"AWS, TensorFlow, React, Scala","₹3,00,000 - ₹5,00,000",Pune,Entry,2025-10-25,300000,500000,Entry,AWS,Pune
+Business Analyst,Wipro,Cybersecurity,"Linux, Excel, Spark, Power BI, SQL","₹16,00,000 - ₹25,00,000",Hyderabad,Entry,2025-03-27,1600000,2500000,Entry,Linux,Hyderabad
+AI Engineer,HCL,AI Research,"Python, Tableau, React, Linux, Scala","₹10,00,000 - ₹15,00,000",Coimbatore,Mid,2025-04-21,1000000,1500000,Mid,Python,Coimbatore
+Cloud Architect,Cognizant,Cybersecurity,"Linux, SQL, Docker, Tableau, Python","₹6,00,000 - ₹9,00,000",Delhi,Senior,2025-09-08,600000,900000,Senior,Linux,Delhi
+Web Developer,Tech Mahindra,Business Analysis,"Tableau, React, Spark, AWS, Scala","₹10,00,000 - ₹15,00,000",Hyderabad,Mid,2025-10-21,1000000,1500000,Mid,Tableau,Hyderabad
+AI Engineer,Accenture,Software Development,"Python, TensorFlow, Kubernetes, Tableau","₹16,00,000 - ₹25,00,000",Pune,Senior,2025-07-22,1600000,2500000,Senior,Python,Pune
+Web Developer,HCL,Web Development,"React, Power BI, Linux","₹16,00,000 - ₹25,00,000",Kolkata,Mid,2025-01-12,1600000,2500000,Mid,React,Kolkata
+Software Developer,Cognizant,Web Development,"Power BI, AWS, Tableau, Spark, TensorFlow","₹10,00,000 - ₹15,00,000",Coimbatore,Senior,2025-06-02,1000000,1500000,Senior,Power BI,Coimbatore
+Data Engineer,TCS,Web Development,"React, Docker, Scala, C++, Spark","₹16,00,000 - ₹25,00,000",Pune,Entry,2025-01-24,1600000,2500000,Entry,React,Pune
+DevOps Engineer,Google,AI Research,"Python, C++, Spark, Excel","₹6,00,000 - ₹9,00,000",Kolkata,Senior,2025-05-27,600000,900000,Senior,Python,Kolkata
+Business Analyst,Tech Mahindra,Cybersecurity,"Java, Python, SQL, Docker, React, Linux","₹6,00,000 - ₹9,00,000",Bangalore,Entry,2025-03-10,600000,900000,Entry,Java,Bangalore
+Security Analyst,Cognizant,Machine Learning,"AWS, Tableau, Scala, Excel","₹6,00,000 - ₹9,00,000",Delhi,Entry,2025-04-04,600000,900000,Entry,AWS,Delhi
+AI Engineer,Tech Mahindra,Data Science,"React, Excel, Linux, Kubernetes, Java","₹16,00,000 - ₹25,00,000",Mumbai,Senior,2025-03-23,1600000,2500000,Senior,React,Mumbai
+Machine Learning Engineer,Accenture,Data Science,"Excel, Tableau, Power BI, C++, React","₹10,00,000 - ₹15,00,000",Bangalore,Entry,2025-09-28,1000000,1500000,Entry,Excel,Bangalore
+AI Engineer,Microsoft,Data Science,"Kubernetes, Scala, React, TensorFlow","₹6,00,000 - ₹9,00,000",Mumbai,Entry,2025-03-23,600000,900000,Entry,Kubernetes,Mumbai
+Business Analyst,Tech Mahindra,Machine Learning,"TensorFlow, Docker, C++, Scala","₹6,00,000 - ₹9,00,000",Delhi,Senior,2025-03-07,600000,900000,Senior,TensorFlow,Delhi
+Software Developer,TCS,Web Development,"Python, Power BI, SQL, Linux, Excel, AWS","₹10,00,000 - ₹15,00,000",Mumbai,Senior,2025-02-02,1000000,1500000,Senior,Python,Mumbai
+Data Analyst,TCS,Cybersecurity,"Docker, C++, Spark","₹3,00,000 - ₹5,00,000",Coimbatore,Entry,2025-06-06,300000,500000,Entry,Docker,Coimbatore
+DevOps Engineer,HCL,Data Science,"TensorFlow, Tableau, Java, Kubernetes","₹6,00,000 - ₹9,00,000",Hyderabad,Senior,2025-06-12,600000,900000,Senior,TensorFlow,Hyderabad
+Machine Learning Engineer,Accenture,Business Analysis,"Kubernetes, Java, Excel, Scala","₹10,00,000 - ₹15,00,000",Pune,Senior,2025-10-26,1000000,1500000,Senior,Kubernetes,Pune
+Machine Learning Engineer,Accenture,AI Research,"TensorFlow, C++, SQL, Scala, Power BI, Java","₹6,00,000 - ₹9,00,000",Coimbatore,Senior,2025-11-19,600000,900000,Senior,TensorFlow,Coimbatore
+Web Developer,TCS,Data Science,"SQL, Excel, Docker, Scala, Java","₹3,00,000 - ₹5,00,000",Delhi,Senior,2025-10-10,300000,500000,Senior,SQL,Delhi
+Web Developer,Wipro,Web Development,"AWS, Excel, Docker, Python, Kubernetes","₹16,00,000 - ₹25,00,000",Hyderabad,Entry,2025-08-20,1600000,2500000,Entry,AWS,Hyderabad
+Data Engineer,Amazon,Business Analysis,"Excel, Scala, Power BI, TensorFlow","₹3,00,000 - ₹5,00,000",Kolkata,Mid,2025-08-10,300000,500000,Mid,Excel,Kolkata
+Web Developer,Tech Mahindra,Software Development,"Tableau, Spark, Linux, C++, TensorFlow, Scala","₹16,00,000 - ₹25,00,000",Chennai,Mid,2025-04-10,1600000,2500000,Mid,Tableau,Chennai
+Business Analyst,TCS,AI Research,"TensorFlow, Scala, SQL, React","₹6,00,000 - ₹9,00,000",Delhi,Senior,2025-02-17,600000,900000,Senior,TensorFlow,Delhi
+Web Developer,Tech Mahindra,Business Analysis,"Scala, Tableau, Excel","₹3,00,000 - ₹5,00,000",Delhi,Senior,2025-01-10,300000,500000,Senior,Scala,Delhi
+Machine Learning Engineer,Amazon,Cloud Engineering,"AWS, Tableau, Scala, Excel","₹10,00,000 - ₹15,00,000",Mumbai,Senior,2025-10-03,1000000,1500000,Senior,AWS,Mumbai
+Web Developer,HCL,Cloud Engineering,"Docker, Java, Scala, Excel, Python","₹6,00,000 - ₹9,00,000",Delhi,Mid,2025-03-21,600000,900000,Mid,Docker,Delhi
+Data Engineer,Wipro,Web Development,"TensorFlow, C++, React, Power BI, Tableau, Kubernetes","₹10,00,000 - ₹15,00,000",Bangalore,Mid,2025-04-14,1000000,1500000,Mid,TensorFlow,Bangalore
+Software Developer,Wipro,Cybersecurity,"Linux, Spark, AWS, C++, Excel, Kubernetes","₹10,00,000 - ₹15,00,000",Hyderabad,Entry,2025-02-21,1000000,1500000,Entry,Linux,Hyderabad
+Security Analyst,Amazon,Data Science,"AWS, Docker, Python, Kubernetes, Scala, Power BI","₹16,00,000 - ₹25,00,000",Kolkata,Senior,2025-12-05,1600000,2500000,Senior,AWS,Kolkata
+Machine Learning Engineer,Cognizant,Business Analysis,"TensorFlow, Java, Spark, AWS","₹6,00,000 - ₹9,00,000",Mumbai,Mid,2025-02-27,600000,900000,Mid,TensorFlow,Mumbai
+Security Analyst,Amazon,Cloud Engineering,"Kubernetes, Tableau, Java, AWS, C++","₹16,00,000 - ₹25,00,000",Chennai,Entry,2025-04-18,1600000,2500000,Entry,Kubernetes,Chennai
+Web Developer,Accenture,Cybersecurity,"Scala, Kubernetes, Excel","₹16,00,000 - ₹25,00,000",Delhi,Senior,2025-11-23,1600000,2500000,Senior,Scala,Delhi
+DevOps Engineer,Infosys,Cloud Engineering,"Tableau, Scala, SQL, TensorFlow, Excel, Spark","₹16,00,000 - ₹25,00,000",Chennai,Senior,2025-10-28,1600000,2500000,Senior,Tableau,Chennai
+Data Analyst,Amazon,Cloud Engineering,"Spark, Python, Scala, Power BI, Java","₹10,00,000 - ₹15,00,000",Delhi,Mid,2025-08-21,1000000,1500000,Mid,Spark,Delhi
+Data Engineer,Microsoft,Cloud Engineering,"AWS, Excel, Spark, Docker, SQL, Kubernetes","₹16,00,000 - ₹25,00,000",Kolkata,Entry,2025-11-15,1600000,2500000,Entry,AWS,Kolkata
+AI Engineer,Wipro,Cloud Engineering,"Java, Python, Power BI, Excel","₹16,00,000 - ₹25,00,000",Hyderabad,Entry,2025-09-13,1600000,2500000,Entry,Java,Hyderabad
+Software Developer,Infosys,Cybersecurity,"Linux, C++, TensorFlow","₹3,00,000 - ₹5,00,000",Bangalore,Entry,2025-10-25,300000,500000,Entry,Linux,Bangalore
+Data Analyst,Microsoft,Web Development,"Spark, Tableau, TensorFlow, SQL, React, Linux","₹10,00,000 - ₹15,00,000",Chennai,Entry,2025-05-22,1000000,1500000,Entry,Spark,Chennai
+DevOps Engineer,Amazon,Machine Learning,"Scala, Tableau, Power BI, TensorFlow, Docker","₹10,00,000 - ₹15,00,000",Kolkata,Senior,2025-02-22,1000000,1500000,Senior,Scala,Kolkata
+Web Developer,TCS,Software Development,"Scala, Docker, React, Kubernetes, Excel, SQL","₹10,00,000 - ₹15,00,000",Hyderabad,Senior,2025-07-12,1000000,1500000,Senior,Scala,Hyderabad
+Software Developer,Wipro,Web Development,"Power BI, SQL, Tableau, React, Java, Kubernetes","₹6,00,000 - ₹9,00,000",Mumbai,Entry,2025-09-03,600000,900000,Entry,Power BI,Mumbai
+DevOps Engineer,Wipro,Software Development,"Java, C++, TensorFlow, Kubernetes","₹10,00,000 - ₹15,00,000",Mumbai,Mid,2025-12-22,1000000,1500000,Mid,Java,Mumbai
+Data Analyst,Microsoft,Data Science,"Scala, Linux, Docker, Tableau, React, AWS","₹16,00,000 - ₹25,00,000",Bangalore,Mid,2025-07-12,1600000,2500000,Mid,Scala,Bangalore
+Cloud Architect,TCS,Software Development,"Excel, Linux, Tableau, TensorFlow, C++","₹6,00,000 - ₹9,00,000",Kolkata,Senior,2025-05-06,600000,900000,Senior,Excel,Kolkata
+Data Engineer,Amazon,Cloud Engineering,"Power BI, SQL, Java, Spark, C++","₹16,00,000 - ₹25,00,000",Kolkata,Mid,2025-10-03,1600000,2500000,Mid,Power BI,Kolkata
+Web Developer,Amazon,AI Research,"Linux, C++, SQL","₹3,00,000 - ₹5,00,000",Kolkata,Entry,2025-08-22,300000,500000,Entry,Linux,Kolkata
+AI Engineer,Amazon,Cybersecurity,"Spark, Tableau, SQL, TensorFlow","₹6,00,000 - ₹9,00,000",Chennai,Entry,2025-01-10,600000,900000,Entry,Spark,Chennai
+Cloud Architect,HCL,Data Science,"Kubernetes, Power BI, Linux, Spark, Java","₹10,00,000 - ₹15,00,000",Coimbatore,Mid,2025-01-06,1000000,1500000,Mid,Kubernetes,Coimbatore
+Security Analyst,Amazon,Data Science,"Python, Linux, Java, Spark, Scala","₹6,00,000 - ₹9,00,000",Chennai,Senior,2025-05-15,600000,900000,Senior,Python,Chennai
+Security Analyst,Accenture,Cybersecurity,"TensorFlow, AWS, C++, Linux, Java, Spark","₹10,00,000 - ₹15,00,000",Coimbatore,Mid,2025-09-04,1000000,1500000,Mid,TensorFlow,Coimbatore
+Data Engineer,TCS,Cloud Engineering,"Python, Scala, Kubernetes, Tableau, Spark","₹6,00,000 - ₹9,00,000",Mumbai,Senior,2025-10-23,600000,900000,Senior,Python,Mumbai
+Security Analyst,Cognizant,Business Analysis,"React, AWS, Excel, Python, Scala","₹3,00,000 - ₹5,00,000",Kolkata,Mid,2025-04-05,300000,500000,Mid,React,Kolkata
+Business Analyst,Cognizant,Cybersecurity,"Scala, Excel, Power BI, Tableau, Java","₹3,00,000 - ₹5,00,000",Kolkata,Mid,2025-05-16,300000,500000,Mid,Scala,Kolkata
+DevOps Engineer,Tech Mahindra,Web Development,"Linux, Scala, C++, Kubernetes","₹16,00,000 - ₹25,00,000",Chennai,Senior,2025-02-16,1600000,2500000,Senior,Linux,Chennai
+Cloud Architect,Infosys,Web Development,"Excel, Kubernetes, Docker, C++","₹6,00,000 - ₹9,00,000",Delhi,Senior,2025-12-18,600000,900000,Senior,Excel,Delhi
+Data Engineer,Cognizant,Business Analysis,"TensorFlow, Kubernetes, Python","₹10,00,000 - ₹15,00,000",Bangalore,Entry,2025-07-20,1000000,1500000,Entry,TensorFlow,Bangalore
+AI Engineer,Cognizant,Cybersecurity,"Java, C++, React, Excel, Scala, Kubernetes","₹3,00,000 - ₹5,00,000",Bangalore,Entry,2025-07-10,300000,500000,Entry,Java,Bangalore
+DevOps Engineer,HCL,Web Development,"Docker, Excel, TensorFlow","₹6,00,000 - ₹9,00,000",Mumbai,Senior,2025-11-05,600000,900000,Senior,Docker,Mumbai
+Cloud Architect,Accenture,Web Development,"TensorFlow, React, SQL","₹6,00,000 - ₹9,00,000",Chennai,Mid,2025-10-10,600000,900000,Mid,TensorFlow,Chennai
+Web Developer,HCL,Software Development,"AWS, Linux, Docker","₹10,00,000 - ₹15,00,000",Mumbai,Entry,2025-03-10,1000000,1500000,Entry,AWS,Mumbai
+Data Engineer,Wipro,Data Science,"TensorFlow, React, AWS, Tableau","₹3,00,000 - ₹5,00,000",Mumbai,Senior,2025-12-02,300000,500000,Senior,TensorFlow,Mumbai
+Cloud Architect,HCL,Software Development,"Power BI, Excel, Python, Linux","₹6,00,000 - ₹9,00,000",Hyderabad,Entry,2025-09-14,600000,900000,Entry,Power BI,Hyderabad
+DevOps Engineer,Infosys,Cybersecurity,"Tableau, C++, Linux, TensorFlow, Docker, Python","₹10,00,000 - ₹15,00,000",Kolkata,Entry,2025-01-17,1000000,1500000,Entry,Tableau,Kolkata
+Cloud Architect,Microsoft,Business Analysis,"Power BI, Kubernetes, TensorFlow, Python, Spark","₹10,00,000 - ₹15,00,000",Mumbai,Entry,2025-07-18,1000000,1500000,Entry,Power BI,Mumbai
+DevOps Engineer,Infosys,Data Science,"React, Kubernetes, Scala, Excel","₹10,00,000 - ₹15,00,000",Chennai,Senior,2025-06-09,1000000,1500000,Senior,React,Chennai
+DevOps Engineer,Tech Mahindra,AI Research,"TensorFlow, Spark, Linux, Power BI","₹10,00,000 - ₹15,00,000",Bangalore,Entry,2025-06-04,1000000,1500000,Entry,TensorFlow,Bangalore
+DevOps Engineer,TCS,Cloud Engineering,"AWS, Linux, C++, TensorFlow, Docker","₹16,00,000 - ₹25,00,000",Delhi,Senior,2025-07-03,1600000,2500000,Senior,AWS,Delhi
+Software Developer,TCS,AI Research,"Java, Tableau, TensorFlow, Scala, Excel, Kubernetes","₹10,00,000 - ₹15,00,000",Hyderabad,Senior,2025-10-16,1000000,1500000,Senior,Java,Hyderabad
+Data Engineer,HCL,AI Research,"Linux, Kubernetes, Python","₹3,00,000 - ₹5,00,000",Bangalore,Senior,2025-04-13,300000,500000,Senior,Linux,Bangalore
+Business Analyst,Amazon,Software Development,"AWS, Java, Excel","₹16,00,000 - ₹25,00,000",Chennai,Entry,2025-11-28,1600000,2500000,Entry,AWS,Chennai
+Business Analyst,Tech Mahindra,Cloud Engineering,"Linux, Docker, C++","₹6,00,000 - ₹9,00,000",Bangalore,Senior,2025-07-18,600000,900000,Senior,Linux,Bangalore
+Machine Learning Engineer,HCL,Machine Learning,"Linux, Python, Kubernetes, TensorFlow","₹10,00,000 - ₹15,00,000",Mumbai,Entry,2025-08-09,1000000,1500000,Entry,Linux,Mumbai
+Web Developer,Google,Business Analysis,"Java, React, C++, Python, AWS, Linux","₹10,00,000 - ₹15,00,000",Kolkata,Senior,2025-03-20,1000000,1500000,Senior,Java,Kolkata
+Software Developer,HCL,Web Development,"Power BI, Python, React, Linux","₹10,00,000 - ₹15,00,000",Mumbai,Senior,2025-08-20,1000000,1500000,Senior,Power BI,Mumbai
+Security Analyst,TCS,Business Analysis,"AWS, Excel, Spark","₹3,00,000 - ₹5,00,000",Mumbai,Mid,2025-03-14,300000,500000,Mid,AWS,Mumbai
+Business Analyst,Wipro,Cloud Engineering,"C++, AWS, Spark, SQL, Excel","₹3,00,000 - ₹5,00,000",Delhi,Mid,2025-07-16,300000,500000,Mid,C++,Delhi
+Security Analyst,Microsoft,Data Science,"Power BI, AWS, Spark, Linux","₹3,00,000 - ₹5,00,000",Kolkata,Senior,2025-11-05,300000,500000,Senior,Power BI,Kolkata
+Machine Learning Engineer,TCS,Machine Learning,"Java, Excel, Scala","₹16,00,000 - ₹25,00,000",Pune,Senior,2025-04-17,1600000,2500000,Senior,Java,Pune
+Web Developer,HCL,Cybersecurity,"Scala, SQL, Java, TensorFlow","₹16,00,000 - ₹25,00,000",Delhi,Entry,2025-12-27,1600000,2500000,Entry,Scala,Delhi
+DevOps Engineer,Google,Web Development,"Docker, SQL, AWS, Linux","₹16,00,000 - ₹25,00,000",Hyderabad,Senior,2025-08-24,1600000,2500000,Senior,Docker,Hyderabad
+Data Engineer,Tech Mahindra,Cloud Engineering,"Docker, AWS, SQL, Excel","₹16,00,000 - ₹25,00,000",Pune,Mid,2025-03-11,1600000,2500000,Mid,Docker,Pune
+Data Analyst,Infosys,Cloud Engineering,"Kubernetes, Excel, Docker, Power BI","₹6,00,000 - ₹9,00,000",Delhi,Senior,2025-03-19,600000,900000,Senior,Kubernetes,Delhi
+Data Engineer,Microsoft,AI Research,"SQL, Excel, React, Tableau","₹16,00,000 - ₹25,00,000",Hyderabad,Senior,2025-01-20,1600000,2500000,Senior,SQL,Hyderabad
+Cloud Architect,Cognizant,Cybersecurity,"C++, SQL, Spark, React, Linux, Java","₹10,00,000 - ₹15,00,000",Bangalore,Senior,2025-04-05,1000000,1500000,Senior,C++,Bangalore
+Web Developer,Amazon,Cybersecurity,"Linux, Excel, C++, Java, AWS","₹10,00,000 - ₹15,00,000",Chennai,Mid,2025-10-26,1000000,1500000,Mid,Linux,Chennai
+Cloud Architect,Amazon,Data Science,"Docker, Scala, Spark, C++","₹10,00,000 - ₹15,00,000",Pune,Senior,2025-06-21,1000000,1500000,Senior,Docker,Pune
+Software Developer,Accenture,Cybersecurity,"Excel, React, Kubernetes, Java, TensorFlow, Tableau","₹10,00,000 - ₹15,00,000",Bangalore,Entry,2025-12-17,1000000,1500000,Entry,Excel,Bangalore
+Web Developer,Google,AI Research,"Excel, Scala, Tableau","₹16,00,000 - ₹25,00,000",Coimbatore,Mid,2025-12-23,1600000,2500000,Mid,Excel,Coimbatore
+Data Analyst,Amazon,AI Research,"Python, SQL, Docker, Power BI, Java, Scala","₹10,00,000 - ₹15,00,000",Bangalore,Entry,2025-12-17,1000000,1500000,Entry,Python,Bangalore
+Business Analyst,Infosys,AI Research,"Docker, React, Tableau","₹3,00,000 - ₹5,00,000",Coimbatore,Senior,2025-03-18,300000,500000,Senior,Docker,Coimbatore
+Business Analyst,Amazon,Web Development,"C++, Power BI, Kubernetes, Docker","₹16,00,000 - ₹25,00,000",Kolkata,Senior,2025-07-16,1600000,2500000,Senior,C++,Kolkata
+DevOps Engineer,TCS,Software Development,"Java, Scala, Tableau, Python, SQL, Linux","₹6,00,000 - ₹9,00,000",Coimbatore,Senior,2025-06-05,600000,900000,Senior,Java,Coimbatore
+Cloud Architect,Google,Web Development,"AWS, Docker, Excel, Spark","₹10,00,000 - ₹15,00,000",Coimbatore,Mid,2025-09-20,1000000,1500000,Mid,AWS,Coimbatore
+Security Analyst,Infosys,Web Development,"Kubernetes, TensorFlow, C++","₹10,00,000 - ₹15,00,000",Hyderabad,Senior,2025-11-20,1000000,1500000,Senior,Kubernetes,Hyderabad
+Security Analyst,Amazon,Machine Learning,"Python, TensorFlow, C++, SQL, Power BI","₹3,00,000 - ₹5,00,000",Bangalore,Mid,2025-10-20,300000,500000,Mid,Python,Bangalore
+Cloud Architect,Infosys,Data Science,"Java, Kubernetes, Linux, Python","₹3,00,000 - ₹5,00,000",Chennai,Senior,2025-05-09,300000,500000,Senior,Java,Chennai
+DevOps Engineer,Tech Mahindra,Web Development,"C++, Spark, Docker, Python, Kubernetes, React","₹3,00,000 - ₹5,00,000",Mumbai,Mid,2025-04-02,300000,500000,Mid,C++,Mumbai
+Software Developer,Microsoft,AI Research,"Docker, Spark, Scala, Excel, React","₹3,00,000 - ₹5,00,000",Pune,Entry,2025-09-24,300000,500000,Entry,Docker,Pune
+AI Engineer,Microsoft,AI Research,"Excel, SQL, React, Docker, Python, Spark","₹10,00,000 - ₹15,00,000",Coimbatore,Senior,2025-07-19,1000000,1500000,Senior,Excel,Coimbatore
+Software Developer,Microsoft,Data Science,"Java, Docker, Tableau, Kubernetes, TensorFlow","₹6,00,000 - ₹9,00,000",Hyderabad,Mid,2025-07-12,600000,900000,Mid,Java,Hyderabad
+Data Analyst,Wipro,Cloud Engineering,"Linux, Spark, AWS, Docker","₹6,00,000 - ₹9,00,000",Pune,Senior,2025-04-23,600000,900000,Senior,Linux,Pune
+Security Analyst,Microsoft,Cloud Engineering,"Scala, Tableau, C++, Kubernetes, Java","₹3,00,000 - ₹5,00,000",Chennai,Senior,2025-06-19,300000,500000,Senior,Scala,Chennai
+Cloud Architect,HCL,Web Development,"Spark, SQL, React","₹6,00,000 - ₹9,00,000",Chennai,Mid,2025-04-11,600000,900000,Mid,Spark,Chennai
+Software Developer,Amazon,Cybersecurity,"Python, Tableau, C++, AWS","₹10,00,000 - ₹15,00,000",Hyderabad,Senior,2025-06-01,1000000,1500000,Senior,Python,Hyderabad
+AI Engineer,Cognizant,Business Analysis,"Spark, TensorFlow, SQL, Power BI","₹10,00,000 - ₹15,00,000",Chennai,Entry,2025-09-26,1000000,1500000,Entry,Spark,Chennai
+Web Developer,Tech Mahindra,Cloud Engineering,"Scala, Docker, Linux, AWS, Tableau, Excel","₹3,00,000 - ₹5,00,000",Delhi,Senior,2025-08-01,300000,500000,Senior,Scala,Delhi
+DevOps Engineer,Cognizant,Machine Learning,"Kubernetes, Excel, Tableau","₹16,00,000 - ₹25,00,000",Hyderabad,Mid,2025-10-03,1600000,2500000,Mid,Kubernetes,Hyderabad
